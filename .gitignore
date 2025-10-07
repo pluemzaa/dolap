@@ -1,5 +1,5 @@
 # เมินทั้งโฟลเดอร์ชื่อ build ที่อยู่รากโปรเจกต์
-/file_dolab/
+/files_dolab/
 
 # เมินโฟลเดอร์ node_modules ที่ไหนก็ได้
 **/node_modules/
