@@ -1,6 +1,0 @@
-v1_str = input("enter v1(space seperate):")
-v1 = v1_str.split(' ')
-v2_str = input("enter v2(space seperate):")
-v2 =v2_str.split(' ')
-dotproduct =(int(v1[0])*int(v2[0]))+(int(v1[1])*int(v2[1]))+(int(v1[2])*int(v2[2]))
-print(f"dotproduct:{dotproduct}")

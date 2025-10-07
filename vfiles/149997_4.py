@@ -1,1 +1,0 @@
-print("'H\tE\tL\tL\tO'\n")

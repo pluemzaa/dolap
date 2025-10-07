@@ -1,2 +1,0 @@
-Iloveyou = "love"
-print (Iloveyou)

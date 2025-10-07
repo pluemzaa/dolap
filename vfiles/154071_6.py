@@ -1,6 +1,0 @@
-x=input("input:\n ")
-y=input("input:\n ")
-z=input("input:\n ")
-print("out put:\n",x)
-print("out put:\n",y)
-print("out put:\n",z)

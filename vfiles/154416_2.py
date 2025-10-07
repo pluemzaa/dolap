@@ -1,2 +1,0 @@
-input("")
-message = input("")

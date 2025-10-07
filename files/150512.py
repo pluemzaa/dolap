@@ -1,1 +1,0 @@
-print("'H E L L O'\nPP\nYY\nTT\nHH\nOO\nNN\n\"H E L L O\"")

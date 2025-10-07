@@ -1,1 +1,0 @@
-intput("Enter your data : ")

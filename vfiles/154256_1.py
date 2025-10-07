@@ -1,8 +1,0 @@
-Testcase=input().split(",")
-print(int(Testcase[0]),"+",int(Testcase[1]),"=",int(Testcase[0])+int(Testcase[1]))
-print(int(Testcase[0]),"-",int(Testcase[1]),"=",int(Testcase[0])-int(Testcase[1]))
-print(int(Testcase[0]),"*",int(Testcase[1]),"=",int(Testcase[0])*int(Testcase[1]))
-print(int(Testcase[0]),"/",int(Testcase[1]),"=",int(Testcase[0])/int(Testcase[1]))
-print(int(Testcase[0]),"//",int(Testcase[1]),"=",int(Testcase[0])//int(Testcase[1]))
-print(int(Testcase[0]),"%",int(Testcase[1]),"=",int(Testcase[0])%int(Testcase[1]))
-print(int(Testcase[0]),"**",int(Testcase[1]),"=",int(Testcase[0])**int(Testcase[1]))

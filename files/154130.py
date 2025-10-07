@@ -1,1 +1,0 @@
-print('p  y  t  h  o   n\np\t\tp \ny\t\ty \nt\t\tt \nh\t\th \no\t\to \nn\t\tn \np  y  t  h  o   n')

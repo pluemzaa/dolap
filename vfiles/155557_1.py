@@ -1,5 +1,0 @@
-number=input("")
-number=number.split(',')
-x=int(number[0])
-y=int(number[1])
-print("sum is:",x+y)

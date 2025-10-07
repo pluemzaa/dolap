@@ -1,8 +1,0 @@
-Num = input("Displaymultiplication table of?")
-Num = int(num)
-print(Num,"x",1,"=",Num*1)
-print(Num,"x",2,"=",Num*2)
-print(Num,"x",3,"=",Num*3)
-print(Num,"x",4,"=",Num*4)
-print(Num,"x",5,"=",Num*5)
-print(Num,"x",6,"=",Num*6)

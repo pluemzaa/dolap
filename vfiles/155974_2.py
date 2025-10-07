@@ -1,8 +1,0 @@
-x = input().spilt(',')
-print('Addition: ',int(x[0]),int(x[1]))
-print('Subtraction: ',int(x[0],int(x[1]))
-print('Multiplication: ',int(x[0]),int(x[1]))
-print('Divistion: ',int(x[0]),int(x[1]))
-print('Divistion with out the remainder: ',int(x[0]),int(x[0]))
-print('modulus: ',int(x[0]),int(x[1]))
-print('Exponential: ',int(x[0]),int(x[1]))

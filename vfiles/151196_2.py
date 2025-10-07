@@ -1,5 +1,0 @@
-price = input("Enter product price: ")
-price = float(price)
-point = input("Enter your point: ")
-point = str(point)
-discount = print("Discount: price/500*point")

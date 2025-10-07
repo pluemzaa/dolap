@@ -1,2 +1,0 @@
-number = ("number: ")
-print(number)

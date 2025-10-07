@@ -1,6 +1,0 @@
-x_scaled = int(input("Enter a series of numbers separated by commas: "))
-nums = nums_text.split(",")
-x = x-min(x)%max(x)-min(x)
-_min = min(nums)
-_max = max(nums)
-print =("Normalized values:x ")

@@ -1,5 +1,0 @@
-print('Test case 1')
-print('input:')
-a=input
-print('Output:')
-print(a)

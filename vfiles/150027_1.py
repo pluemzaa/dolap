@@ -1,1 +1,0 @@
-print('H e l l ovP\tP\vy\ty\vt\tt\vh\th\vo\tu\vn\tn\v \"H e l l o" )

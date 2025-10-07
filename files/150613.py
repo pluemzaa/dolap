@@ -1,1 +1,0 @@
-steps = int(input("Enter the number of steps taken: "));print(f"Total calories burned: {steps * 0.06:.2f} calories")

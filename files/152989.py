@@ -1,2 +1,0 @@
-keyboard =input()
-print(keyboard)

@@ -1,6 +1,0 @@
-x = input("input:\n")
-print(f'''{x}''')
-y = input("input:\n")
-print(f'''{y}''')
-z = input("input:\n")
-print(f'''{z}''')

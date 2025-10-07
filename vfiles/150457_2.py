@@ -1,8 +1,0 @@
-x = input('Display multiiplication table of?')
-x1 = int(x)
-print(x1,'x,',2,'=',x2*1)
-print(x1,'x,',2,'=',x2*2)
-print(x1,'x,',2,'=',x2*3)
-print(x1,'x,',2,'=',x2*4)
-print(x1,'x,',2,'=',x2*5)
-print(x1,'x,',2,'=',x2*6)

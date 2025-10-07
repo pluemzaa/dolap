@@ -1,5 +1,0 @@
-x_input = input().split(",")
-y_input = input(number_str[0].split())
-z_input = input(number_str[1].split())
-print("First number is:")
-print("Second number is:")

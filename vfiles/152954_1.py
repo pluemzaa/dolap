@@ -1,6 +1,0 @@
-input("1")
-Output("1")
-input:("1.2")
-Output:("1.2")
-input:("A")
-Output:("A")

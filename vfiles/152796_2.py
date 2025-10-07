@@ -1,8 +1,0 @@
-print('p,	y,	t,	h,	o,	n')
-print('p,	p')
-print('y,	y')
-print('t,	')
-print('h,	h')
-print('o,	o')
-print('n	n')
-print('p,	y,	t,	h,	o,	n')

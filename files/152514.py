@@ -1,1 +1,0 @@
-print('i love\n -ant\n -bird\n -cat')

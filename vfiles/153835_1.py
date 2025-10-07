@@ -1,2 +1,0 @@
-thislist = input()
-print(thislist)

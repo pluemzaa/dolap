@@ -1,2 +1,0 @@
-key=input()
-print(key)

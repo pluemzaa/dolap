@@ -1,1 +1,0 @@
-print("\'H E L L O ' \n P \t  P\n Y \t  Y\n T \t T \n H \t  H\n O \T O\n N \t N\n \"H E L L O\" ")

@@ -1,6 +1,0 @@
-A = input()
-print(A)
-B = input()
-print(B)
-C = input()
-print(C)

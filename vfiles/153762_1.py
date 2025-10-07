@@ -1,2 +1,0 @@
-a = intput()
-print(a)

@@ -1,1 +1,0 @@
-data = input("Insert 3 numbers")

@@ -1,1 +1,0 @@
-print('H\nE\nL\n

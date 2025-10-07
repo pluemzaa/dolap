@@ -1,8 +1,0 @@
-print('P    y    t    h    o    n')
-print('P                        P')
-print('y                        y')
-print('t                        t')
-print('h                        h')
-print('o                        o')
-print('n                        n')
-print('P    y    t    h    o    n')

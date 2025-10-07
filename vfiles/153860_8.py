@@ -1,2 +1,0 @@
-get("x")
-print("x")

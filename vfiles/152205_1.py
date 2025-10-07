@@ -1,1 +1,0 @@
-print("p \ty \tt \th \to \tn")

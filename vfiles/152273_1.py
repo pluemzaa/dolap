@@ -1,1 +1,0 @@
-print('input\tis:123')

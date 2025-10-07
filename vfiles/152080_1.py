@@ -1,1 +1,0 @@
-print(" i \tlove \\K \nK 'U'")

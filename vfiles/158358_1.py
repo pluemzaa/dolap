@@ -1,5 +1,0 @@
-num=int(input('Enter any year that is to be checked for leap year:'))
-if (num%4==0and num%100!=0)or num%400==0:
-    print('The given year is a leap year')
-else :
-    print('It is not a leap year')

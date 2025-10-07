@@ -1,6 +1,0 @@
-price = input("Enter prodct price:")
-point = input("Enter your point:")
-price = float(price)
-discount = point/500
-print("Discount: %.2f" % discount)
-print("Total: %.2f Bath" %(price - discount))

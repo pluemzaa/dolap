@@ -1,8 +1,0 @@
-x,y=input().split(',')
-print('addition: ',(x)+(y))
-print('subtraction: ',(x)-(y))
-print('multiplication: ',(x)*(y))
-print('division: ',(x)/(y))
-print('division without the remainder: ',(x)//(y))
-print('modulus: ',(x)%(y))
-print('exponential: ',(x)**(y))

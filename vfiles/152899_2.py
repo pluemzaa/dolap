@@ -1,6 +1,0 @@
-case1=input("Test case 1\ninput: \n")
-print(f"Output:\n{case1}")
-case2=input("Test case 2\ninput: \n")
-print(f"Output:\n{case2}")
-case3=input("Test case 3\ninput: \n")
-print(f"Output:\n{case3}")

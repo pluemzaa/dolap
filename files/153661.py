@@ -1,1 +1,0 @@
-print('\ni love "KKU"')

@@ -1,7 +1,0 @@
-x = (input("Enter a series of numbers separated by commas:"))
-a = x.split(",")
-max_n = (max(x))
-print(f"10 is the maximum value:{a[0] in max_n}")
-print(f"1 is the maximum value:{a[1] in max_n}")
-print(f"5 is the maximum value:{a[2] in max_n}")
-print(f"1 is the maximum value:{a[4] in max_n}")

@@ -1,1 +1,0 @@
-print("Display multiplication table of? 12")

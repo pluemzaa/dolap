@@ -1,1 +1,0 @@
-x =  int(input("Enter a series of numbers separated by commas: ").split(','))

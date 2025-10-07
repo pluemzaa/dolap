@@ -1,1 +1,0 @@
-print("p  \t y \t t \t h \t o \t n \n p \t \t \t \t \t p \n y \t \t \t \t \t y \n t \t \t \t \t \t t \n h \t \t \t \t \t h \n o \t \t \t \t \t o \n n \t \t \t \t \t n \n p \t y \t t \t h \t o \t n")

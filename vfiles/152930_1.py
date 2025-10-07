@@ -1,2 +1,0 @@
-total=input()
-print{total}

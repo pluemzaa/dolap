@@ -1,6 +1,0 @@
-a = input("I love you")
-print(a[2:5])
-b = input("Programming")
-print(b[2:5])
-c = input("Security")
-print(c[2:5])

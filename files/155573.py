@@ -1,5 +1,0 @@
-input_str = input()
-num1_str,num2_str = input_str.split (",")
-num1 = int(num1_str)
-num2 = int(num2_str)
-print("sum is ",num1+num2)

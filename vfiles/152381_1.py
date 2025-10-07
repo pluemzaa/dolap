@@ -1,1 +1,0 @@
-name=input(I love you)

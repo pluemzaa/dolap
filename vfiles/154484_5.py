@@ -1,6 +1,0 @@
-Testcase1=input("Testcase1\ninput:\n")
-print("Output:\n",Testcase1)
-Testcase2=input("Testcase2\ninput:\n")
-print("Output:\n",Testcase2)
-Testcase3=input("Testcase3\ninput:\n")
-print("Output:\n",Testcase3)

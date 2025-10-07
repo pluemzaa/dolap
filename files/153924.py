@@ -1,2 +1,0 @@
-testcase=input("")
-print(testcase)

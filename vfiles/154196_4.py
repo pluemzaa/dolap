@@ -1,6 +1,0 @@
-x=input()
-print(x[3:6])
-y=input()
-print(y[3:6])
-z=input()
-print(z[3:6])

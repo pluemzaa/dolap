@@ -1,6 +1,0 @@
-x = input("Enter a series of numbers separated by commas: ").split(",")
-print (f"{x[0]} is the maximum value: {x[0] == max(x)}")
-print (f"{x[1]} is the maximum value: {x[1] == max(x)}")
-print (f"{x[2]} is the maximum value: {x[2] == max(x)}")
-print (f"{x[3]} is the maximum value: {x[3] == max(x)}")
-print (f"{x[4]} is the maximum value: {x[4] == max(x)}")

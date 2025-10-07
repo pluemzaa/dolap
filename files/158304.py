@@ -1,1 +1,0 @@
-print('Correct' if (input())=="HelloCyber" else 'Incorrect')

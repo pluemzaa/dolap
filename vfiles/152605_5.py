@@ -1,6 +1,0 @@
-a=input().split(',')
-b=int(a[0])
-c=int(a[1])
-d=str(a[0])
-e=str(a[1])
-print(d,"+",e,"=",(b+c))

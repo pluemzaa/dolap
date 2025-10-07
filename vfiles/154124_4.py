@@ -1,2 +1,0 @@
-number=imput()
-print(number)

@@ -1,1 +1,0 @@
-print("Cipher of", text, "is", cipher)

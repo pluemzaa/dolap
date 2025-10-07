@@ -1,7 +1,0 @@
-xt=int(input("Display multiplication table of?"))
-print(xt,'x',1,'=',12*1)
-print(xt,'x',2,'=',12*2)
-print(xt,'x',3,'=',12*3)
-print(xt,'x',4,'=',12*4)
-print(xt,'x',5,'=',12*5)
-print(xt,'x',6,'=',12*6)

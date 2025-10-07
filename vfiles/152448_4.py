@@ -1,8 +1,0 @@
-x = input().split(',')
-print(x[0],'+'x[1],'=',int(x[0])+int(x[1]))
-print(x[0],'-'x[1],'=',int(x[0])-int(x[1]))
-print(x[0],'*'x[1],'=',int(x[0])*int(x[1]))
-print(x[0],'/'x[1],'=',int(x[0])/int(x[1]))
-print(x[0],'//'x[1],'=',int(x[0])//int(x[1]))
-print(x[0],'%'x[1],'=',int(x[0])%int(x[1]))
-print(x[0],'**'x[1],'=',int(x[0])**int(x[1]))

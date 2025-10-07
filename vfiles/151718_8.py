@@ -1,1 +1,0 @@
-v1_input = input("Enter v1 (space-separated): "

@@ -1,1 +1,0 @@
-Num=input("Display multiplication table of?")

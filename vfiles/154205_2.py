@@ -1,1 +1,0 @@
-input("I love you")

@@ -1,8 +1,0 @@
-x,y = input().spilt(",")
-print(x,"+",y,"=",int(x)+int(y))
-print(x,"-",y,"=",int(x)-int(y))
-print(x,"*",y,"=",int(x)*int(y))
-print(x,"/",y,"=",int(x)/int(y))
-print(x,"//",y,"=",int(x)//int(y))
-print(x,"%",y,"=",int(x)%int(y))
-print(x,"**",y,"=",int(x)**int(y))

@@ -1,1 +1,0 @@
-print('cccc \n\n c,,c \n\n c,,c\n\n cccc')

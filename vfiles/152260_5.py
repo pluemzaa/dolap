@@ -1,1 +1,0 @@
-number = input(enter your number)

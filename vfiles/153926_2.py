@@ -1,6 +1,0 @@
-case_1 = input('test case1:')
-print(int(case_1))
-case_2 = input('test case2:')
-print(float(case_2))
-case_3 = input('test case3:')
-print(str(case_3))

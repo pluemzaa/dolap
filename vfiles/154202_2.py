@@ -1,8 +1,0 @@
-print("p	y	t	h	o	n")
-print("p					n")
-print("p					n")
-print("p					n")
-print("p					n")
-print("p					n")
-print("p					n")
-print("p	y	t	h	o	n")

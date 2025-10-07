@@ -1,1 +1,0 @@
-keyboard = input().split(",")

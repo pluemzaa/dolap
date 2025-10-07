@@ -1,5 +1,0 @@
-x=input().split(',')
-A=int(X[0])
-B=int(X[1])
-sum =(A+B)
-print("sum is",sum)

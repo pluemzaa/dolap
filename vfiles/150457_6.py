@@ -1,8 +1,0 @@
-x = input('Display multiiplication table of?')
-x = int(x)
-print(x,'y 1 =',x*1)
-print(x,'y 2 =',x*2)
-print(x,'y 3 =',x*3)
-print(x,'y 4 =',x*4)
-print(x,'y 5 =',x*5)
-print(x,'y 6 =',x*6)

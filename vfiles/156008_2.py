@@ -1,8 +1,0 @@
-x=input
-print('Addition: ', x)
-print('Subtraction: ', x)
-print('Multiplication: ',x)
-print('Division: ',x)
-print('Division without the remainder: ',x)
-print('Modulus: ',x)
-print('Exponential: ',x)

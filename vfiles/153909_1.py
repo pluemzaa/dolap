@@ -1,6 +1,0 @@
-Test_case_1 =input("Test_case_1 =")
-Test_case_2 =input("Teat_case_2 =")
-Test_case_3 =input("Test_case_3")
-print(Test_case_1)
-print(Test_case_2)
-print(Test_case_3)

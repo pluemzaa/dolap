@@ -1,8 +1,0 @@
-xt = input("Enter x:")
-x = int(xt)
-print(x,'*',1'=',x)
-print(x,'*',2'=',x)
-print(x,'*',3'=',x)
-print(x,'*',4'=',x)
-print(x,'*',5'=',x)
-print(x,'*',6'=',x)

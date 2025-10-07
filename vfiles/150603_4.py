@@ -1,8 +1,0 @@
-Text=input('Display multipcation table of?')
-A=int(Text)
-print(A,'x',1,'=',x*1)
-print(A,'x',2,'=',x*2)
-print(A,'x',3,'=',x*3)
-print(A,'x',4,'=',x*4)
-print(A,'x',5,'=',x*5)
-print(A,'x',6,'=',x*6)

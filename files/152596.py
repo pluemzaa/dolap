@@ -1,1 +1,0 @@
-print ("I Love\n-ant\n-bird\n-cat")

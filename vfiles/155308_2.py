@@ -1,6 +1,0 @@
-x1 = float(input("Enter the x-coordinate of point 1:"))
-y1 = float(input("Enter the y-coordinate of point 1:"))
-x2 = float(input("Enter the x-coordinate of point 2:"))
-y2 = float(input("Enter the y-coordinate of point 2:"))
-distance = ("math.sqrt(2)") 
-print("distance : %.2f" % distance)

@@ -1,1 +1,0 @@
-print("Total calories burned: %.2f calories" % (int(input()) * 0.06))

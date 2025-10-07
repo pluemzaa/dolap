@@ -1,8 +1,0 @@
-x,y = input().split(',')
-print("sum is ",int(x)+int(y))
-print("sum is ",int(x)-int(y))
-print("sum is ",int(x)*int(y))
-print("sum is ",int(x)/int(y))
-print("sum is ",int(x)//nt(y))
-print("sum is ",int(x)%int(y))
-print("sum is ",int(x)**int(y))

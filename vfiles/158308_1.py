@@ -1,1 +1,0 @@
-print("Password is strong" if (input()).len()>=8 else "Password is weak")

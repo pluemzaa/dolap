@@ -1,8 +1,0 @@
-x = input("enter x : ")
-x= int(x)
-print(x,'X',1,'=',x * 1,sep=' ')
-print(x,'X',2,'=',x * 2,sep=' ')
-print(x,'X',3,'=',x * 3,sep=' ')
-print(x,'X',4,'=',x * 4,sep=' ')
-print(x,'X',5,'=',x * 5,sep=' ')
-print(x,'X',6,'=',x * 6,sep=' ')

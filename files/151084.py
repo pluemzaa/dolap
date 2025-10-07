@@ -1,8 +1,0 @@
-B = input('Enter product price: ')
-B = float(B)
-P = input ('Enter your point: ')
-P = int(P)
-Point = 1/500*(P)
-print(f"Discount: {Point:.2f}")
-Total = (B)-(Point)
-print(f"Total: {Total:.2f}","Baht")

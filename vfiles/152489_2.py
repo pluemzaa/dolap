@@ -1,1 +1,0 @@
-print('-ant \n -bird \n -cat')

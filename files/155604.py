@@ -1,1 +1,0 @@
-print("I\tlove\t\"KKU\t\"")

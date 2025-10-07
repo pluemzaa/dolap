@@ -1,6 +1,0 @@
-x=input("Enter your data:")
-print(f"you data:{x}")
-y=input("Enter your data:")
-print(f"you data:{y}")
-z=input("Enter your data:")
-print(f"you data:{z}")

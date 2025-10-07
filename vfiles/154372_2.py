@@ -1,6 +1,0 @@
-x = input('input:')
-print('output:',x)
-y = input('input:')
-print('output:',y)
-z = input('input:')
-print('output',z)

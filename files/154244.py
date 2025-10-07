@@ -1,8 +1,0 @@
-tc=input().split(',')
-print(int(tc[0]),"+",int(tc[1]),"=",int(tc[0])+int(tc[1]))
-print(int(tc[0]),"-",int(tc[1]),"=",int(tc[0])-int(tc[1]))
-print(int(tc[0]),"*",int(tc[1]),"=",int(tc[0])*int(tc[1]))
-print(int(tc[0]),"/",int(tc[1]),"=",int(tc[0])/int(tc[1]))
-print(int(tc[0]),"//",int(tc[1]),"=",int(tc[0])//int(tc[1]))
-print(int(tc[0]),"%",int(tc[1]),"=",int(tc[0])%int(tc[1]))
-print(int(tc[0]),"**",int(tc[1]),"=",int(tc[0])**int(tc[1]))

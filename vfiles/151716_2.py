@@ -1,9 +1,0 @@
-pet_code = {'Dog': 0 ,'Cat' : 1 ,'Fish' : 2}
-pet_input = input("Enter your pets:")
-pets = pet_input.split(',')
-v1 = pet_code[pets[0]]
-v2 = pet_code[pets[1]]
-v3 = pet_code[pets[2]]
-v4 = pet_code[pets[3]]
-v5 = pet_code[pets[4]]
-print("Code of your pets:"str(v1),str(v2),str(v3),str(v4),str(v5),sep=(","))

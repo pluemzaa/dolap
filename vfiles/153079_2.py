@@ -1,6 +1,0 @@
-X = input('Enter your data:1')
-print(X)
-Y = input('Enter your data:1.2')
-print(Y)
-Z = input('Enter your data:A')
-print(Z)

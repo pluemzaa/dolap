@@ -1,1 +1,0 @@
-print("Your data: {}".format(input("Enter your data: ")))

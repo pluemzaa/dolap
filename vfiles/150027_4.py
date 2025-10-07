@@ -1,1 +1,0 @@
-print('\'H\tE\tL\tL\tO\' \vP\tP\vY\tY\vT\tT\vH\tH\vO\tO\vN\tN\v \"H\tE\tL\tL\tO\"' )

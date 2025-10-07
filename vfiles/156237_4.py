@@ -1,8 +1,0 @@
-number=input("Insert number").split(',')
-print("number[0]","+","number[1]","=",int(number[0])+int(number[1]))
-print("number[0]","-","number[1]","=",int(number[0])-int(number[1]))
-print("number[0]","*","number[1]","=",int(number[0])*int(number[1]))
-print("number[0]","/","number[1]","=",int(number[0])/int(number[1]))
-print("number[0]","//","number[1]","=",int(number[0])//int(number[1]))
-print("number[0]","%","number[1]","=",int(number[0])%int(number[1]))
-print("number[0]","**","number[1]","=",int(number[0])**int(number[1]))

@@ -1,1 +1,0 @@
-print("'H 	E	L	L	O" \nP				P	Y				Y\nT				T\nHt			H\nO				O\nN				N\nH" 	E	L	L	O\"")

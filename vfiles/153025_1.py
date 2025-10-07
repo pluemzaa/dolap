@@ -1,6 +1,0 @@
-a = input("Enter your data:")
-print(a)
-b = input("Enter your data:")
-print(b)
-c = input("Enter your data:")
-print(c)

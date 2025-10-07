@@ -1,2 +1,0 @@
-print("I love You")
-print(message[2:6])

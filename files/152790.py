@@ -1,6 +1,0 @@
-case1 = input("Enter your data:")
-print("Your data:",case1)
-case2 = input("Enter your data:")
-print("Your data:",case2)
-case3 =input("Enter your data:")
-print("Your data:",case3)

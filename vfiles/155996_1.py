@@ -1,2 +1,0 @@
-input = message(,)
-print(message[,])

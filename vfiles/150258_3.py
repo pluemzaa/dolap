@@ -1,8 +1,0 @@
-xx=input("Display multiplication table of? : ")
-x=int(xx)
-print(x,"X",1, "=" ,x*1)
-print(x,"X",2, "=" ,x*2)
-print(x,"X",3, "=" ,x*3)
-print(x,"X",4, "=" ,x*4)
-print(x,"X",5, "=" ,x*5)
-print(x,"X",6, "=" ,x*6)

@@ -1,6 +1,0 @@
-x = input()
-print(f'''{x}''')
-y = input()
-print(f'''{y}''')
-z = input()
-print(f'''{z}''')

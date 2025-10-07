@@ -1,8 +1,0 @@
-print('\'H      E      L     L      O\'')
-print('P                              P')
-print('Y                              Y')
-print('T                              T')
-print('H                             H ')
-print('O                             O')
-print('N                             N')
-print("\"H      E      L     L     O\"")

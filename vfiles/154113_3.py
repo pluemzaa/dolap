@@ -1,5 +1,0 @@
-number = input()
-split_number = number.split(',')
-num_1 = int(split_number[0])
-num_2 = int(split_number[1])
-print("sum is",num_1 + num_2)

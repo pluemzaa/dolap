@@ -1,5 +1,0 @@
-print('\tI\tiove\t"kku"')
-print('\nI\nlove\n"kku"')
-print('I love \"kku\"')
-print("i love \"kku\"")
-print('i love \\"kku"')

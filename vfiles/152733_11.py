@@ -1,6 +1,0 @@
-data =input("Enter your data:")
-print("Input is:123")
-print(data)
-number =input("Enter your number:")
-print("Input is:123")
-print(number)

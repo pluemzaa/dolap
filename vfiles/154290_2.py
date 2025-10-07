@@ -1,8 +1,0 @@
-Input1 = input()
-Input2 = input()
-x = Input1.split(",")
-y = Input2.split(",")
-totalsum1 = sum(map(int, x))
-totalsum2 = sum(map(int, y))
-print("First sum is" ,totalsum1)
-print("Second sum is" ,totalsum2)

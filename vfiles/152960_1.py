@@ -1,2 +1,0 @@
-Test = input()
-print(Test)

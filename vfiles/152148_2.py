@@ -1,1 +1,0 @@
-print("p\ty\tt\th\to\tn\np\t\t\tp\ny\t\t\ty\nt\t\t\tt\nh\t\t\th\no\t\t\to\np    y    t    h    o    n")

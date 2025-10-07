@@ -1,1 +1,0 @@
-input(int 1)

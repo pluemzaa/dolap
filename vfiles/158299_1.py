@@ -1,1 +1,0 @@
-x = int(input("Enter any year that is to be checked for leap year:"))

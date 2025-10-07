@@ -1,6 +1,0 @@
-A = input('Enter your data:')
-print(f"Your data: {A}")
-B = input('Enter your data:')
-print(f"Your data: {B}")
-C = input('Enter your data:')
-print(f"Your data: {C}")

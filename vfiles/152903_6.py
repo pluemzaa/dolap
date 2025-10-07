@@ -1,6 +1,0 @@
-t1 = input()
-t2 = input()
-t3 = input()
-print(t1[2:7])
-print(t2[2:7])
-print(t3[2:7])

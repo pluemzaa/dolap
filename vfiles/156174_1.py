@@ -1,8 +1,0 @@
-number = input()
-print(number[0] + number[1])
-print(number[0] - number[1])
-print(number[0] * number[1])
-print(number[0] / number[1])
-print(number[0] // number[1])
-print(number[0] % number[1])
-print(number[0] ** number[1])

@@ -1,8 +1,0 @@
-x = int(input("please type digit for multiply"))
-
-print(f"{x}  x  1 =  {x * 1}")
-print(f"{x}  x  2 =  {x * 2}")
-print(f"{x}  x  3 =  {x * 3}")
-print(f"{x}  x  4 =  {x * 4}")
-print(f"{x}  x  5 =  {x * 5}")
-print(f"{x}  x  6 =  {x * 6}")

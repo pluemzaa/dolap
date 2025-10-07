@@ -1,6 +1,0 @@
-m = input()
-print(m[2:6])
-a = input()
-print(a[2:6])
-b = input()
-print(b[2:6])

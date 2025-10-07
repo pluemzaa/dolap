@@ -1,5 +1,0 @@
-print("p y t h o n")
-print("p      \tp")
-print("y      \ty")
-print("t      \tt")
-print("h      \th")

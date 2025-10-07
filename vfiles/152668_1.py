@@ -1,1 +1,0 @@
-print('ccccccccc\nc\tc\nc\tc\nccccccccc')

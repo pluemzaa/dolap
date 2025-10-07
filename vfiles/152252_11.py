@@ -1,6 +1,0 @@
-data = input("Enter your data: ")
-print('input is:123')
-data = input("Enter your data: ")
-print('input is:ABC')
-data = input("Enter your data: ")
-print('input is:KKU')

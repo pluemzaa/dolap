@@ -1,9 +1,0 @@
-name = input("Enter your name: ")
-email = input("Enter your email: ")
-gpa = float(input("Enter your GPA: "))
-n = [name,email,gpa]
-m = (name,email,gpa)
-k = {'name':name,'email':email,'GPA':gpa}
-print(n)
-print(m)
-print(k)

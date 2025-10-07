@@ -1,1 +1,0 @@
-print('H\ne\nl\nl\no Python!')

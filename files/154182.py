@@ -1,6 +1,0 @@
-Data = input()
-n1,n2=Data.split(",")
-n1 = int(n1)
-n2 = int(n2)
-print('First number is:',n1)
-print('Second number is:',n2)

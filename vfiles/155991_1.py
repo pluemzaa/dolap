@@ -1,8 +1,0 @@
-message = input().split(',')
-print(+x=message)
-print(-x=message)
-print(*x=message)
-print(/x=message)
-print(//x=message)
-print(%x=message)
-print(**x=message)

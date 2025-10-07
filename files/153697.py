@@ -1,8 +1,0 @@
-print("p y t h o n")
-print("p \t \t p")
-print("y \t \t y")
-print("t \t \t t")
-print("h \t \t h")
-print("o \t \t o")
-print("n \t \t n")
-print("p y t h o n")

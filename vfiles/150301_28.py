@@ -1,8 +1,0 @@
-n= int(input("Display multiplication table of"))
-X= int(n)
-print(X,'n',1,'=',n*1)
-print(X,'n',2,'=',n*2)
-print(X,'n',3,'=',n*3)
-print(X,'n',4,'=',n*4)
-print(X,'n',5,'=',n*5)
-print(X,'n',6,'=',n*6)

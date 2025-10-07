@@ -1,8 +1,0 @@
-n = input("Display multiplication table of?")
-o = int(n)
-print(o,'x',1,'=',o*1)
-print(o,'x',2,'=',o*2)
-print(o,'x',3,'=',o*3)
-print(o,'x',4,'=',o*4)
-print(o,'x',5,'=',o*5)
-print(o,'x',6,'=',o*6)

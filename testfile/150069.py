@@ -1,7 +1,0 @@
-num = input("Display multiplication table of?" )
-print(num,"x",1,"=",int(num)*1)
-print(num,"x",2,"=",int(num)*2)
-print(num,"x",3,"=",int(num)*3)
-print(num,"x",4,"=",int(num)*4)
-print(num,"x",5,"=",int(num)*5)
-print(num,"x",6,"=",int(num)*6)

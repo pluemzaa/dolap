@@ -1,6 +1,0 @@
-x_int=input("Test case 1 \ninput:\n")
-print("Output:\n",x_int)
-y_float=input("Test case 2 \ninput:\n")
-print("Output:\n",y_float)
-z_str=input("Test case 3 \ninput:\n")
-print("Output:\n",z_str)

@@ -1,6 +1,0 @@
-num1=input("Enter your data:")
-print("Your data:",num1)
-num2=input("Enter your data:")
-print("Your data:",num2)
-num3=input("Enter your data:")
-print("Your data:",num3)

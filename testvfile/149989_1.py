@@ -1,1 +1,0 @@
-print('H\tE\tL\tl\tO\nP\t\t\t\tP\nY\t\t\t\tY\nT\t\t\t\tT\nH\t\t\t\tH\nO\t\t\t\tO\nN\t\t\t\tN\nH\tE\tL\tl\tO')

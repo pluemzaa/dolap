@@ -1,1 +1,0 @@
-data = input("Enter your data: 1")

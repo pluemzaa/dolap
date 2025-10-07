@@ -1,1 +1,0 @@
-print('\'H\tE\tL\tL\tO\'\nP    P\nY    Y\nT    T\nH    H\nO    O\nN    N\n\"H\tE\tL\tL\tO\"')

@@ -1,8 +1,0 @@
-num1= input("Enter product price:")
-num2= input("Enter product point:")
-num1 = float(num1)
-num2 = float(num2)
-num3 = 1/500*float(num2)
-num4 =int(num1)-int(num3)
-print (f"Discount: {num3:.2f}")
-print (f"Total :{num4:.2f}","Bath")

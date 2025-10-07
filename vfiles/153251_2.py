@@ -1,1 +1,0 @@
-print("I love \n - and \n - bird \n - cat")

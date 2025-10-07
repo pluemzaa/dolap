@@ -1,5 +1,0 @@
-price = input("Enter price:")
-price = float(price)
-point = 1/500*float(price)
-print("Total price : %.2f / Your point : %.2f points"% (price,point))
-print(f"Total price : {price:.2f} / Your point : {point:.2f} points")

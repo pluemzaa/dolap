@@ -1,6 +1,0 @@
-a=int(a)
-b=float(b)
-c=str(c)
-print(a)
-print(b)
-print(c)

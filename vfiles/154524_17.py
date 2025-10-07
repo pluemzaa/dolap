@@ -1,6 +1,0 @@
-number= input()
-print(1)
-no_float= input("")
-print(1.2)
-number= input()
-print(A)

@@ -1,1 +1,0 @@
-print("\ncc"*4, "\nc  c", "\nc  c", "\nc"*4)

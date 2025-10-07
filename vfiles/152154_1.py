@@ -1,1 +1,0 @@
-print("i love\t kku")

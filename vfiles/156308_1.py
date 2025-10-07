@@ -1,8 +1,0 @@
-a,b input().split(",")
-print('addition:',+)
-print('subtraction:',-)
-print('Multiplication:',*)
-print('Division:',/)
-print('Divistion without the remaider:',//)
-print('Modulus:',%)
-print('Exponential:',**)

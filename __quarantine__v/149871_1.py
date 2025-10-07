@@ -1,5 +1,0 @@
-username = "system"
-password = "touch1704"
-ip = "10.199.37.54"
-port = "1521"
-database = "xe"
