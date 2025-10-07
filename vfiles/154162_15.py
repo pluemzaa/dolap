@@ -1,0 +1,8 @@
+a = input('Test case 1')
+print(a)
+
+b = input('Test case 2')
+print(b)
+
+c = input('Test case 3')
+print(c)

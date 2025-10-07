@@ -1,0 +1,20 @@
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+if num2 == 0:
+    print("Cannot divide zero")
+oper = input("Enter the operator (+,-,*,/): ")
+
+oper_list = ["+","-","*","/"]
+
+if oper not in oper_list:
+    print("Invalid operator")
+    
+if oper in oper_list:
+    if oper == oper_list[0]:
+        print(f"Result:{num1 + num2:.2f}")
+    elif oper == oper_list[1]:
+        print(f"Result:{num1 - num2:.2f}")
+    elif oper == oper_list[2]:
+        print(f"Result:{num1 * num2:.2f}")
+    elif oper == oper_list[3]:
+        print(f"Result:{num1 / num2:.2f}")

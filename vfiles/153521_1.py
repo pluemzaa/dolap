@@ -1,0 +1,1 @@
+print('p y t h o n \n p\t p\n y\t y \n t\tt \n h\t h \n o\t o \n n\t n \n p y t h o n')

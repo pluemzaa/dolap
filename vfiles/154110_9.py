@@ -1,0 +1,5 @@
+input("x = 5,y = 5.5,z = \"A\"")
+print("output")
+print(x)
+print(y)
+print(z)

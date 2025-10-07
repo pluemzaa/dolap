@@ -1,0 +1,13 @@
+v1 = input('Enter v1 (space-separated):')
+v1[0] = int(a[0])
+v1[1] = int(a[1])
+v1[2] = int(a[2])
+v2 = input("Enter v2 (space-separated):")
+v2[0] = int(a[0])
+v2[1] = int(a[1])
+v2[2] = int(a[2])
+c0 = (v1[0]*v2[0])
+c1 = (v1[1]*v2[1])
+c2 = (v1[2]*v2[2])
+_sum = c0+c1+c2
+print(_sum)

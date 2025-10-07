@@ -1,0 +1,6 @@
+x = input("")
+print(x[2:6])
+x = input("")
+print(x[2:6])
+x = input("")
+print(x[2:6])

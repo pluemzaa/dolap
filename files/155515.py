@@ -1,0 +1,22 @@
+import math
+nums_text = input("Enter a series of numbers separated by commas:")
+nums = nums_text.split(",")
+nums[0] = int(nums[0])
+nums[1] = int(nums[1])
+nums[2] = int(nums[2])
+nums[3] = int(nums[3])
+nums[4] = int(nums[4])
+
+
+r0 = (nums[0]-min(nums))/(max(nums)-min(nums))
+r1 = (nums[1]-min(nums))/(max(nums)-min(nums))
+r2 = (nums[2]-min(nums))/(max(nums)-min(nums))
+r3 = (nums[3]-min(nums))/(max(nums)-min(nums))
+r4 = (nums[4]-min(nums))/(max(nums)-min(nums))
+
+print("Normalized values:")
+print(f"{r0 : .2f}" )
+print(f"{r1 : .2f}" )
+print(f"{r2 : .2f}" )
+print(f"{r3 : .2f}" )
+print(f"{r4 : .2f}" )

@@ -1,0 +1,1 @@
+print('I love/n-ant/n-brid/n-cat')

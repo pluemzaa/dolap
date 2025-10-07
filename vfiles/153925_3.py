@@ -1,0 +1,1 @@
+print('p\ty\tt\th\to\tn',"\np\t\t\t\t\t    p","\ny\t\t\t\t\t    y","\nt\t\t\t\t\t    t","\nh\t\t\t\t\t    h","\no\t\t\t\t\t    o","\nn\t\t\t\t\t    n",'p\ty\tt\th\to\tn')

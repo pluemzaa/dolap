@@ -1,0 +1,10 @@
+print = input()split(',')
+x = int[('a')]
+y = int[('b')]
+print = (f'x+y = [x+y]')
+print = (f'x-y = [x-y]')
+print = (f'x*y = [x*y]')
+print = (f'x/y = [x/y]')
+print = (f'x//y = [x//y]')
+print = (f'x%y = [x%y]')
+print = (f'x**y = [x**y]')

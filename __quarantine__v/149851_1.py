@@ -1,0 +1,5 @@
+username = ""
+password = ""
+ip = ""
+port = ""
+database = ""

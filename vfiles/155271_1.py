@@ -1,0 +1,13 @@
+x = input("Enter a series of numbers separated by commas:")
+x = x.split(',')
+nums[0] = int(nums[0])
+nums[1] = int(nums[1])
+nums[2] = int(nums[2])
+nums[3] = int(nums[3])
+nums[4] = int(nums[4])
+
+x1 = (input("Enter x1 :"))
+x1 = (input("Enter y1 :"))
+x2 = (input("Enter x2 :"))
+x2 = (input("Enter y2 :"))
+print(x[0],"is the maximum value:",x[0] is max(x))

@@ -1,0 +1,8 @@
+x = input(1,2),x.split(",")
+print("x+=2")
+print("x-=2")
+print("x*=2")
+print("x/=2")
+print("x//=2")
+print("x%=2")
+print("x**=2")

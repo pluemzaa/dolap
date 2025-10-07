@@ -1,0 +1,1 @@
+print('p y t h o n\np  p\ny y\nt t\nh h\no o\nn p y t h o n')

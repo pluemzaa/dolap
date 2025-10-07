@@ -1,0 +1,1 @@
+x = print(int("Enter your dota:"))

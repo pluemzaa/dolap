@@ -1,0 +1,2 @@
+num = int(input("Display multiplication table of? "))
+print(f"{num} x 1 = {num*1}",\n f"{num} x 2 = {num*2}",\n f"{num} x 3 = {num*3}",\n f"{num} x 4 = {num*4}",\n f"{num} x 5 = {num*5}",\n f"{num} x 6 = {num*6}")

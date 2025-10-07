@@ -1,0 +1,6 @@
+print('Test case 1')
+print('Input:')
+a=input('input:')
+print(a)
+print('Output:)
+print(a)

@@ -1,0 +1,6 @@
+data =input("Enter your data:")
+print("Input is:123")
+print(data)
+data =input("Enter your data:")
+print("Input is:ABC")
+print(data)

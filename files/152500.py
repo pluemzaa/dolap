@@ -1,0 +1,1 @@
+print("CCCC\nC\tC\nC\tC\nCCCC")

@@ -1,0 +1,6 @@
+no_int= input()
+print(1)
+no_float= input()
+print(1.2)
+word= input()
+print(A)

@@ -1,0 +1,2 @@
+message = "love"
+print(message)

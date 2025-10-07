@@ -1,0 +1,12 @@
+import math
+numx1=input("Enter the x-coordinate of point 1:")
+numy1=input("Enter the y-coordinate of point 1:")
+numx2=input("Enter the x-coordinate of point 2:")
+numy2=input("Enter the y-coordinate of point 2:")
+numx1=int(numx1)
+numy1=int(numy1)
+numx2=int(numx2)
+numy2=int(numy2)
+#s=(numx2-numx1)**2+(numy2-numy1)**2
+s= math.sqrt((numx2-numx1)**2+(numy2-numy1)**2)
+print("The distance between the two points is:",'s : %.2f'% s)

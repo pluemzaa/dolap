@@ -1,0 +1,6 @@
+num1=input("input:")
+print(num1)
+num2=input("input:")
+print(num2)
+num3=input("input:")
+print(num3)

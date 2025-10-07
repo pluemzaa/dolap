@@ -1,0 +1,10 @@
+P = input().split(",")
+x = P[0]
+z = P[1]
+print(f' {a}+{b}={int(x) + int(z)}')
+print(f' {a}-{b}={int(x) - int(z)}')
+print(f' {a}*{b}={int(x) * int(z)}')
+print(f' {a}/{b}={int(x) / int(z)}')
+print(f' {a}//{b}={int(x) // int(z)}')
+print(f' {a}%{b}={int(x) % int(z)}')
+print(f' {a}**{b}={int(x) ** int(z)}')

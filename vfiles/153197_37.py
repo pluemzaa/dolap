@@ -1,0 +1,6 @@
+a,b=(5,4) 
+a,b = (1,2)
+print("First number is:",a)
+print("Second number is:",b)
+print("first number is:",a)
+print("second number is:",b)

@@ -1,0 +1,1 @@
+print ("P H Y T H O N\ny Y\nT T\nH H\nO O\nN Y T H O P")

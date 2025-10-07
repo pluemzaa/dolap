@@ -1,0 +1,5 @@
+namber = input("Enter your data")
+print(namber)
+print(type(namber))
+namber = int(namber)
+print(namber)

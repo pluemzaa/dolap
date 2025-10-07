@@ -1,0 +1,8 @@
+n= int(input("Display multiplication table of"))
+X= int(n)
+print(X,'x',1,'=',n*1)
+print(X,'x',2,'=',n*2)
+print(X,'x',3,'=',n*3)
+print(X,'x',4,'=',n*4)
+print(X,'x',5,'=',n*5)
+print(X,'x',6,'=',n*6)

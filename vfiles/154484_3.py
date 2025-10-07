@@ -1,0 +1,6 @@
+Testcase1=input("input:\n")
+print("Output:\n",Testcase1)
+Testcase2=input("input:\n")
+print("Output:\n",Testcase2)
+Testcase3=input("input:\n")
+print("Output:\n",Testcase3)

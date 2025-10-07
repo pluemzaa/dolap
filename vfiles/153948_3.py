@@ -1,0 +1,6 @@
+A = input("number1")
+print(A)
+B = input("number2")
+print(B)
+C = input("number3")
+print(C)

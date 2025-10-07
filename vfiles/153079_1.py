@@ -1,0 +1,6 @@
+X = input('Enter your data:')
+print('Your data',X)
+Y = input('Enter your data:')
+print('Your data',Y)
+Z = input('Enter your data:')
+print('Your data',Z)

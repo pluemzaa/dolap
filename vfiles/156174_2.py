@@ -1,0 +1,8 @@
+Test_case_1 = {1,2}
+print('1 + 2 ='Test_case_1[0] + Test_case_1[1])
+print('1 - 2 ='Test_case_1[0] - Test_case_1[1])
+print('1 * 2 ='Test_case_1[0] * Test_case_1[1])
+print('1 / 2 ='Test_case_1[0] / Test_case_1[1])
+print('1 // 2 ='Test_case_1[0] // Test_case_1[1])
+print('1 % 2 ='Test_case_1[0] % Test_case_1[1])
+primt('1 ** 2 ='Test_case_1[0] ** Test_case_1[1])

@@ -1,0 +1,2 @@
+keyboard =input()
+print(keyboard)

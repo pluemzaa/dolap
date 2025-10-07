@@ -1,0 +1,5 @@
+x=input("")
+x=x.split(",")
+s1=int(x[0])
+s2=int(x[1])
+print("sum is",s1+s2)

@@ -1,0 +1,23 @@
+num_p = input("Enter a series of numbers separated by commas:")
+num = num_p.split(',')
+num[0] = int(num[0])
+num[1] = int(num[1])
+num[2] = int(num[2])
+num[3] = int(num[3])
+num[4] = int(num[4])
+
+x_min = min(num)
+x_max = max(num)
+
+v0 = (num[0]-x_min)/(x_max-x_min)
+v1 = (num[1]-x_min)/(x_max-x_min)
+v2 = (num[2]-x_min)/(x_max-x_min)
+v3 = (num[3]-x_min)/(x_max-x_min)
+v4 = (num[4]-x_min)/(x_max-x_min)
+
+print('Normalized values:')
+print("%.2f" % v0)
+print("%.2f" % v1)
+print("%.2f" % v2)
+print("%.2f" % v3)
+print("%.2f" % v4)

@@ -1,0 +1,8 @@
+v = input('Display multiplication table of?')
+v = int(v)
+print(v,'x 1 =',v*1)
+print(v,'x 2 =',v*2)
+print(v,'x 3 =',v*3)
+print(v,'x 4 =',v*4)
+print(v,'x 5 =',v*5)
+print(v,'x 6 =',v*6)

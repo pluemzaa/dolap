@@ -1,0 +1,2 @@
+thislist = input()
+print(thislist)

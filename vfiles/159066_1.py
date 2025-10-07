@@ -1,0 +1,7 @@
+w = float(input("Enter your weight (kg): "))
+h =float(input("Enter your height (m): "))
+
+if w > 0 and h > 0:
+    bmi = w*(h^2)
+else:
+    print("Invalid input")

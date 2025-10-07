@@ -1,0 +1,15 @@
+nums_text = input("Enter a series of numbers separated by commas:")
+nums = nums_text.split(",")
+n0 = nums[0] = int(nums[0])
+n1 = nums[1] = int(nums[1])
+n2 = nums[2] = int(nums[2])
+n3 = nums[3] = int(nums[3])
+n4 = nums[4] = int(nums[4])
+
+_max = max(nums)
+
+print(f"{n0}is the maximum value: {n0 is _max}")
+print(f"{n1}is the maximum value: {n1 is _max}")
+print(f"{n2}is the maximum value: {n2 is _max}")
+print(f"{n3}is the maximum value: {n3 is _max}")
+print(f"{n4}is the maximum value: {n4 is _max}")

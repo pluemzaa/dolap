@@ -1,0 +1,8 @@
+x,y=input().split(',')
+print('addition: ',int(x)+int(y))
+print('subtraction: ',int(x)-int(y))
+print('multiplication: ',int(x)*int(y))
+print('division: ',int(x)/int(y))
+print('division without the remainder: ',int(x)//int(y))
+print('modulus: ',int(x)%int(y))
+print('exponential: ',int(x)**int(y))

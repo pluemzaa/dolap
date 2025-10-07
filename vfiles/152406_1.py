@@ -1,0 +1,2 @@
+number = input(password)
+print("")

@@ -1,0 +1,13 @@
+x = int(input("Display multiplication table of?"))
+x1 = x*1
+x2 = x*2
+x3 = x*3
+x4 = x*4
+x5 = x*5
+x6 = x*6
+print(x,'x',1,"=",x1)
+print(x,'x',2,"=",x2)
+print(x,'x',3,"=",x3)
+print(x,'x',4,"=",x4)
+print(x,'x',5,"=",x5)
+print(x,'x',6,"=",x6)

@@ -1,0 +1,2 @@
+testcase=input("")
+print(testcase)

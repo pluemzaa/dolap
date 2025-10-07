@@ -1,0 +1,6 @@
+x = int(5)
+y = float(5.5)
+z = str('"A"')
+print("x =",x)
+print("y =",y)
+print("z =",z)

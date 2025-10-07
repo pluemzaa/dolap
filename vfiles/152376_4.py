@@ -1,0 +1,5 @@
+num=input().split(',')
+num1=input().split(',')
+num=int(num[0])
+num1=int(num1[0])
+print("sum is",num[0]+num1[0])

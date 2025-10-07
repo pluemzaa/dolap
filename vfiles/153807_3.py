@@ -1,0 +1,8 @@
+print('p\ty\tt\th\to\t\tn')
+print('p\tp')
+print('y\ty')
+print('t\tt')
+print('h\th')
+print('o\to')
+print('n\tn')
+)print('p\ty\tt\th\to\t\tn')

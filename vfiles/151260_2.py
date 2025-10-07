@@ -1,0 +1,9 @@
+name = input("Enter your name:")
+email = input("Enter your email:")
+GPA = input(float("Enter your GPA:")
+a = [name,email,GPA]
+b = (name,email,GPA)
+c = {"name" : naem , "email" : email,"GPA" :GPA}
+print(a)
+print(b)
+print(c)

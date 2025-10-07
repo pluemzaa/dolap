@@ -1,0 +1,8 @@
+Text=input("Display multipcation table of? ")
+Text=int(Text)
+print(Text,'x',1,'=',Text*1)
+print(Text,'x',2,'=',Text*2)
+print(Text,'x',3,'=',Text*3)
+print(Text,'x',4,'=',Text*4)
+print(Text,'x',5,'=',Text*5)
+print(Text,'x',6,'=',Text*6)

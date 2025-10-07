@@ -1,0 +1,1 @@
+rint('\'H\tE\tL\tL\tO\'\nP\t\t\t\t P\nY\t\t\t\t Y\nT\t\t\t\t T\t\t\t\t\\nO\t\t\t\tH\t\t\t\t O\nN\t\t\t\t N\n\"H\tE\tL\tL\tO"')

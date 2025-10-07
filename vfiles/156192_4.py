@@ -1,0 +1,12 @@
+number=input().split(',')
+num1=number[0]
+num2=number[1]
+num1=int(num1)
+num2=int(num2)
+print('num1+num2=(num1)+(num2)')
+print('num1-num2(num1)-(num2)')
+print('num1*num2(num1)*(num2)')
+print('num1/num2(num1)/(num2)')
+print('num1//num2(num1)//(num2)')
+print('num1%num2(num1)%(num2)')
+print('num1//num2(num1)**(num2)')

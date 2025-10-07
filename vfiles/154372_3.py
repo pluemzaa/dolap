@@ -1,0 +1,6 @@
+x = input('input:')
+print('output:',x)
+y = input('input:')
+print('output:',"1.2")
+z = input('input:')
+print('output',"A")

@@ -1,0 +1,2 @@
+a = intput()
+print(a)

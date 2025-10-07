@@ -1,0 +1,6 @@
+A = input("=").split(",")
+print(f"First number is: {A[0]}\nSecond number is: {A[1]}")
+B = input("=").split(",")
+print(f"First number is: {B[0]}\nSecond number is: {B[1]}")
+C = input("=").split(",")
+print(f"First number is: {C[0]}\nSecond number is: {C[1]}")

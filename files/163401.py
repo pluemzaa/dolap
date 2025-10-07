@@ -1,0 +1,16 @@
+a= input("Enter item 1 :")
+b= float(input("Enter weight 1 :"))
+c= input("Enter item 2 :")
+d= float(input("Enter weight 2 :"))
+e= input("Enter item 3 :")
+F= float(input("Enter weight 3 :"))
+g= input("Enter item 4 :")
+h= float(input("Enter weight 4 :"))
+
+print(a,f"{b:.2f}")
+print(c,f"{d:.2f}")
+print(e,f"{F:.2f}")
+print(g,f"{h:.2f}")
+print("---------------------------")
+total= b+d+F+h
+print("total",f"{total:.2f}")

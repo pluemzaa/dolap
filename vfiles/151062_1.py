@@ -1,0 +1,6 @@
+pp = float(input("Enter product price: "))
+point =int(input("Enter your point: "))
+discount = 1/500*(point)
+print (f"Discount: {discount :.2f}" )
+total = (pp) - (discount)
+print(f"Total: {total : .2f} Bath")

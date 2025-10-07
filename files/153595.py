@@ -1,0 +1,8 @@
+print("p    y    t    h    o    n")
+print("p \t\t\t\t\t\tp")
+print("y \t\t\t\t\t\ty")
+print("t \t\t\t\t\t\tt")
+print("h \t\t\t\t\t\th")
+print("o \t\t\t\t\t\to")
+print("n \t\t\t\t\t\tn")
+print("p    y    t    h    o    n")

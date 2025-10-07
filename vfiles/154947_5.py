@@ -1,0 +1,21 @@
+nums_text ="10,20,30,40,50"
+nums = nums_text.split(",")
+nums[0] = int(input(nums[0]))
+nums[1] = int(input(nums[1]))
+nums[2] = int(input(nums[2]))
+nums[3] = int(input(nums[3]))
+nums[4] = int(input(nums[4]))
+print("Enter a series of numbers separated by commas:",nums[0],nums[1],nums[2],nums[3],nums[4])
+print("Normalized values:")
+
+r0 =(nums[0]-x_min)/(x_max-x_min)
+r1 =(nums[1]-x_min)/(x_max-x_min)
+r2 =(nums[2]-x_min)/(x_max-x_min)
+r3 =(nums[3]-x_min)/(x_max-x_min)
+r4 =(nums[4]-x_min)/(x_max-x_min)
+
+print("%.2f" % r0)
+print("%.2f" % r1)
+print("%.2f" % r2)
+print("%.2f" % r3)
+print("%.2f" % r4)

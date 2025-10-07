@@ -1,0 +1,1 @@
+print('p y t h o n \n p\t p\n')

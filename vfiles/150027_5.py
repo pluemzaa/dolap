@@ -1,0 +1,1 @@
+print('\'H E L L O\' \vP\tP\vY\tY\vT\tT\vH\tH\vO\tO\vN\tN\v \"H E L L O\"' )

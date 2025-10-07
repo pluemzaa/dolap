@@ -1,0 +1,1 @@
+print('H\nP\nY\nT\nH\nN   E  L  L  O\nP\nY\nT\nH\nO\nN')

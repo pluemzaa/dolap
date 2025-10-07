@@ -1,0 +1,8 @@
+num_dict = {"Dog": 0, "Cat": 1, "Fish": 2}
+animal_str = input("Enter your pets: ")
+animal_str = "Dog,Cat,Fish"
+hex_num = animal_str.split(",")
+print("Code of your pets:", end=' ')
+print(num_dict[hex_num[0]],
+      num_dict[hex_num[1]],
+      num_dict[hex_num[2]],sep=',')

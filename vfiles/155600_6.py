@@ -1,0 +1,8 @@
+x,y=input("num").split(',')
+print (int(x)+int(y))
+print (int(x)-int(y))
+print (int(x)*int(y))
+print (int(x)/int(y))
+print (int(x)//int(y))
+print (int(x)%int(y))
+print (int(x)**int(y))

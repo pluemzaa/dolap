@@ -1,0 +1,2 @@
+number = input('Enter your data:')
+print(f"Input is:{number}")

@@ -1,0 +1,8 @@
+n1 = input("Enter price: ")
+n2 = input("Enter point:")
+n1 = float (n1)
+n2 = float (n2)
+n3 = 1/500 * float(n2)
+n4 = int (n1)-float(n3)
+print (f"Discount : {n3:.2f}")
+print (f"Total : {n4:.2f} baht")

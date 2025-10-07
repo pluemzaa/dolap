@@ -1,0 +1,5 @@
+data=input()
+data=data.split(",")
+num1=int(data[0])
+num2=int(data[1])
+print(f"sum is {num1+num2}")

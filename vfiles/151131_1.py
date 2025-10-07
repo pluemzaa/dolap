@@ -1,0 +1,7 @@
+pricet = input("Enter product price:")
+point = int(input("Enter your point:"))
+price = float(pricet)
+Discount = float(pricet)
+Total = float(price - Discount)
+print(f"Discount: %.2f "%Discount)
+print("Total : %.2f Baht"%Total)

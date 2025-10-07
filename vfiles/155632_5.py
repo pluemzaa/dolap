@@ -1,0 +1,5 @@
+data = input()
+num_1, num_2 = data.split(",")
+num_1 = int(num_1.strip())
+num_2 = int(num_2.strip())
+print("sum is", num_1 + num_2)

@@ -1,0 +1,15 @@
+x = str(input("Enter item 1 : "))
+y = float(input("Enter weight 1 :"))
+z = str(input("Enter item 2 : "))
+s = float(input("Enter weight 2 :"))
+d = str(input("Enter item 3 : "))
+a = float(input("Enter weight 3 :"))
+w = str(input("Enter item 4 : "))
+e = float(input("Enter weight 4 :"))
+
+print(x           ,y)
+print(z           ,s)
+print(d           ,a)
+print(w           ,e)
+n = y + s + a + e
+print("total ",n)

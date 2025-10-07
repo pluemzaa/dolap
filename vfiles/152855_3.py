@@ -1,0 +1,1 @@
+print("Enter Your data:123")

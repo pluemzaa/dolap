@@ -1,0 +1,6 @@
+a = input("I love you")
+print(a[2:6])
+b = input("Programming")
+print(b[2:6])
+c = input("Security")
+print(c[2:6])

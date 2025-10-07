@@ -1,0 +1,5 @@
+username="system"
+password="oraD1417"
+ip="10.199.37.60"
+port=1521
+database="xe"

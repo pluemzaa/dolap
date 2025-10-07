@@ -1,0 +1,6 @@
+Testcase1 =input()
+Testcase2 =input()
+Testcase3 =input(")
+print(Testcase1)
+print(Testcase2)
+print(Testcase3)

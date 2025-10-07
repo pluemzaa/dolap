@@ -1,0 +1,11 @@
+price = input("Enter product price:") 
+point = input("Enter your point:") 
+pirce = float(price)
+point = int(point)
+Discount = 1/500*int(point)
+
+print("Discount: ""%.2f" % Discount)
+
+total = float(pirce)-float(Discount)
+
+print("Total: ""%.2f" % total)

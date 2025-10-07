@@ -1,0 +1,6 @@
+x = input("")
+y = split_char=x.split(',')
+A = int(y[0])
+B = int(y[1])
+print('sum is',A+B)
+print('Second number is:',y[1])

@@ -1,0 +1,2 @@
+po = input
+print(po)

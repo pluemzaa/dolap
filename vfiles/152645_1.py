@@ -1,0 +1,1 @@
+print('I love\nant\nbird\ncat\n')

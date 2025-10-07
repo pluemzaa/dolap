@@ -1,0 +1,25 @@
+print("===== Calculate Grade Program =====")
+
+grade_list = []
+name_list = []
+i = 0
+while True:
+    name = input(f'Enter student name No.{i+1} : ')
+    name_list.append(name)
+    grade = float(input('Enter Grade : '))
+    grade_list.append(grade)
+    name_list[i] = grade_list[i]
+    c = input('Continue? (y/n) : ')
+    i += 1
+    if c == 'y':
+        continue
+    else:
+        print()
+        print('===== Report =====')
+        avg = sum(grade_list) / len(grade_list)
+        m_xname = max(name_list)
+        m_nname = min(name_list)
+        print('Average : ',avg)
+        print(f'Max : {m_xname}')
+        print(f'Min : {m_nname}')
+        break

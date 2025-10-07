@@ -1,0 +1,6 @@
+A = input("=")
+print("Output:\n",A)
+B = input("=")
+print("Output:\n",B)
+C = input("=")
+print("Output:\n",C)

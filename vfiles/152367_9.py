@@ -1,0 +1,6 @@
+case1=input()
+print(case1)
+case2=input()
+print(case2)
+case3=input()
+print(case3)

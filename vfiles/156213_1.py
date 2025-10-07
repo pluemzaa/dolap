@@ -1,0 +1,8 @@
+x,y=input().split(',')
+print('addition: ',x+y)
+print('addition: ',x-y)
+print('addition: ',x*y)
+print('addition: ',x/y)
+print('addition: ',x//y)
+print('addition: ',x%y)
+print('addition: ',x**y)

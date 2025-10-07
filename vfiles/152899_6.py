@@ -1,0 +1,6 @@
+case1=input("\ninput: \n")
+print(f"Output:\n{case1}")
+case2=input("\ninput: \n")
+print(f"Output:\n{case2}")
+case3=input("\ninput: \n")
+print(f"Output:\n{case3}")

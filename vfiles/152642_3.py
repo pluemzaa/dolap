@@ -1,0 +1,1 @@
+print('cccc,\n\nc,c/n\nc,c\n\ncccc')

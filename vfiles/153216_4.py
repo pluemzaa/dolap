@@ -1,0 +1,5 @@
+keyboard = input().split(",")
+print(keyboard)
+a = int(keyboard[0])
+b = int(keyboard[1])
+print("sum is",(a+b))

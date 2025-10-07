@@ -1,0 +1,6 @@
+1= input()
+print(1)
+1.2= input()
+print(1.2)
+A= input()
+print(A)

@@ -1,0 +1,6 @@
+a=("1")
+print(int(a))
+b=("1.2")
+print(float(b))
+c=("A")
+print(sting(c))

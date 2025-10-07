@@ -1,0 +1,2 @@
+number=imput()
+print(number)

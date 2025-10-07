@@ -1,0 +1,1 @@
+print("\'H\te\tl\tl\to\'\np\t\t\t\tp\ny\t\t\t\ty\nt\t\t\t\tt\nh\t\t\t\th\no\t\t\t\yo\nn\t\t\t\tn\n\"H\te\tl\tl\o\"")

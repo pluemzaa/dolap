@@ -1,0 +1,2 @@
+message = "Programming"str.
+print(message[3:6])

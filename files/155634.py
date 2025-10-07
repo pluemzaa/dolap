@@ -1,0 +1,13 @@
+a1 = input("Enter a series of numbers separated by commas: ")
+s1 = a1.split(",")
+s1[0] = int(s1[0])
+s1[1] = int(s1[1])
+s1[2] = int(s1[2])
+s1[3] = int(s1[3])
+s1[4] = int(s1[4])
+
+print(f"{s1[0]} is the maximum value: {s1[0]is max(s1)}",)
+print(f"{s1[1]} is the maximum value: {s1[1]is max(s1)}",)
+print(f"{s1[2]} is the maximum value: {s1[2]is max(s1)}",)
+print(f"{s1[3]} is the maximum value: {s1[3]is max(s1)}",)
+print(f"{s1[4]} is the maximum value: {s1[4]is max(s1)}",)

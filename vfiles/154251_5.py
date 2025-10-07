@@ -1,0 +1,4 @@
+numbers = input()
+num1, num2 = numbers.split(",")
+print("First number is",num1)
+print("Second number is",num2)

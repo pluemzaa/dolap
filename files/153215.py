@@ -1,0 +1,11 @@
+X = input("").split(',')
+a = int(X[0])
+b = int(X[1])
+
+print(a, "+", b, "=", a + b)
+print(a, "-", b, "=", a - b)
+print(a, "*", b, "=", a * b)
+print(a, "/", b, "=", a / b)
+print(a, "//", b, "=", a // b)
+print(a, "%", b, "=", a % b)
+print(a, "**", b, "=", a ** b)

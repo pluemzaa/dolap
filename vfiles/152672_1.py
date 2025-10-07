@@ -1,0 +1,1 @@
+print('/t I love "KKU"')

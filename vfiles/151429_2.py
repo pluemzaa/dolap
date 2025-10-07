@@ -1,0 +1,10 @@
+a = input("Enter your name:")
+b = input("Enter your email:")
+c = input("Enter your GPA:")
+
+data_list = [a,b,c]
+data_tuple = (a,b,c)
+data_dict = {a,b,c}
+print(data_list)
+print(data_tuple)
+print(data_dict)

@@ -1,0 +1,6 @@
+Testcase1=input()
+print(Testcase1)
+Testcase2=input()
+print(Testcase2)
+Testcase3=input()
+print(Testcase3)

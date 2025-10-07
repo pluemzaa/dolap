@@ -1,0 +1,12 @@
+fr1 = input("Enter item 1 : ")
+w1 = float(input("Enter weight 1 : "))
+fr2 = input("Enter item 2 : ")
+w2 = float(input("Enter weight 2 : "))
+fr3 = input("Enter item 3 : ")
+w3 = float(input("Enter weight 3 : "))
+fr4 = input("Enter item 4 : ")
+w4 = float(input("Enter weight 4 : "))
+print(f"{fr1}           {w1:.2f}\n{fr2}          {w2:.2f}\n{fr3}          {w3:.2f}\n{fr4}          {w4:.2f}")
+print("---------------------------")          
+total = w1 + w2 + w3 + w4
+print(f"total           {total:.2f}")

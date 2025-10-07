@@ -1,0 +1,1 @@
+price = float(input("Enter product price:"))

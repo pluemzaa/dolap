@@ -1,0 +1,8 @@
+print('p y t h o n')
+print('p /t p')
+print('y /t y')
+print('t /t t')
+print('h /t h')
+print('o /t o')
+print('n /t n')
+print('p y t h o n')
