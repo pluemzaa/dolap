@@ -1,0 +1,6 @@
+x = input("input:")
+print("Output:",x)
+y = input("input:")
+print("Output:",y)
+z = input("input:")
+print("Output:",z)

@@ -1,0 +1,1 @@
+num = int(input("Display multiplication table of?"))

@@ -1,0 +1,11 @@
+nums_text =input("Enter a series of numbers separated by commas:")
+nums=nums_text.split(",")
+nums[0]=int(nums[0])
+nums[1]=int(nums[1])
+nums[2]=int(nums[2])
+nums[3]=int(nums[3])
+nums[4]=int(nums[4])
+min_x = min(nums)
+max_x = max(nums)
+x_scaled = [(nums[0]-min_x)/(max_x-min_x), (nums[1]-min_x)/(max_x-min_x), (nums[2]-min_x)/(max_x-min_x), (nums[3]-min_x)/(max_x-min_x), (nums[4]-min_x)/(max_x-min_x)]
+print("Normalized values:%.2f"%x_scaled,end="\n")

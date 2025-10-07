@@ -1,0 +1,1 @@
+print(f"Cipher of {text} is {text}")

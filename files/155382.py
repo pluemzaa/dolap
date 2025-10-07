@@ -1,0 +1,17 @@
+num = input("Enter a series of numbers separated by commas:").split(",")
+for i in range(5):
+    num[i] = int(num[i])
+
+nummin = min(num)
+nummax = max(num)
+r0 = (num[0] - nummin)/(nummax-nummin)
+r1 = (num[1] - nummin)/(nummax-nummin)
+r2 = (num[2] - nummin)/(nummax-nummin)
+r3 = (num[3] - nummin)/(nummax-nummin)
+r4 = (num[4] - nummin)/(nummax-nummin)
+print("Normalized values:")
+print(f"{r0:.2f}")
+print(f"{r1:.2f}")
+print(f"{r2:.2f}")
+print(f"{r3:.2f}")
+print(f"{r4:.2f}")

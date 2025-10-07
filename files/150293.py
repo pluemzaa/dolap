@@ -1,0 +1,1 @@
+print("Total calories burned: %.2f calories" % (float(input("Enter the number of steps taken: ")) * 0.06))

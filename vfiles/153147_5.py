@@ -1,0 +1,11 @@
+T,S = input().split(',')
+TI = int(T)
+SI = int(S)
+
+print(f"{TI}+{TS}={TI+SI}")
+print(f"{TI}-{TS}={TI-SI}")
+print(f"{TI}*{TS}={TI*SI}")
+print(f"{TI}/{TS}={TI/SI}")
+print(f"{TI}//{TS}={TI//SI}")
+print(f"{TI}%{TS}={TI%SI}")
+print(f"{TI}**{TS}={TI**SI}")

@@ -1,0 +1,6 @@
+x=input("Test case 1 \ninput:\n")
+print("Output:\n",x)
+y=input("Test case 2 \ninput:\n")
+print("Output:\n",y)
+z=input("Test case 3 \ninput:\n")
+print("Output:\n",z)

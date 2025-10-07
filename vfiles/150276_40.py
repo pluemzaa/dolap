@@ -1,0 +1,7 @@
+x = input("Enter x:")
+x = int(12)
+print(x,"+",1,"=",x+1)
+print(x,"+",2,"=",x+2)
+print(x,"+",3,"=",x+3)
+print(x,"+",4,"=",x+4)
+print(x,"+",5,"=",x+5)

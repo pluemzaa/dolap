@@ -1,0 +1,1 @@
+print('p\ty\tt\th\to\tn\np\t\t\t\tp\ny\t\t\t\ty\nt\t\t\t\tt\nh\t\t\t\th\n\t\t\t\tn\np\ty\tt\th\to\tn')

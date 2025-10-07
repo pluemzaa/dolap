@@ -1,0 +1,8 @@
+num = 12
+num= int(num)
+print(num,'X',1,'=',num * 1,)
+print(num,'X',2,'=',num * 2,)
+print(num,'X',3,'=',num * 3,)
+print(num,'X',4,'=',num * 4,)
+print(num,'X',5,'=',num * 5,)
+print(num,'X',6,'=',num * 6,)

@@ -1,0 +1,12 @@
+i = input("Enter numbers separated by commas: ")
+y = int(input("Enter number to search: "))
+nums = i.split(",")
+
+for t in range(len(nums)):
+        nums[t] = int(nums[t])
+        if y == nums[t]:
+            print('Found',y,' at index ',t)
+            i = 0
+
+if i != 0:
+    print(f"No {y} found.")

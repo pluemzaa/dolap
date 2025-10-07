@@ -1,0 +1,6 @@
+x=input()
+print(x[2:5])
+y=input()
+print(y[2:5])
+z=input()
+print(z[2:5])

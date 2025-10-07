@@ -1,0 +1,1 @@
+print('\tI\tiove\t"kku"')

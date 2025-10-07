@@ -1,0 +1,6 @@
+input_str = input()
+num1_str = input_str.split(',')
+num1=int(num1_str[0])
+num2=int(num2_str[1])
+print("Frist number is:",num1)
+print("Second number is:",num2)

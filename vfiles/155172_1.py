@@ -1,0 +1,7 @@
+x1 = int(input("Enter x1=2"))
+y1 = int(input("Enter y1=3"))
+x2 + int(input("Enter x2=5"))
+y2 = int(input("Enter y2=7"))
+slope = (x2-x1)
+slope = (y2-y1)
+print('slope= %.2f' % slope)

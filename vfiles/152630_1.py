@@ -1,0 +1,1 @@
+print("l love /n-ant /n-bird /n-cat")

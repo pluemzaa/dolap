@@ -1,0 +1,1 @@
+print('cccc\n\tc\nc\tc\ncccc')

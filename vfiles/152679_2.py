@@ -1,0 +1,1 @@
+x = int("Enter your dota:")

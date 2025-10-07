@@ -1,0 +1,1 @@
+num = int(input("Display multiplication table of? ")); print(*(f"{num} x {i} = {num*i}" for i in range(1, 13)), sep='\n')

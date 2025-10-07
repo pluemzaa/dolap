@@ -1,0 +1,2 @@
+number = input()
+printint(number)

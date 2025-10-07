@@ -1,0 +1,5 @@
+f = input("").split(',')
+a=int(f[0])
+b=int(f[1])
+sum =(a+b)
+print(sum)

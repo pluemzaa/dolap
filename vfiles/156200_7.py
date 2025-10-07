@@ -1,0 +1,10 @@
+x = input().split(',')
+y = x[0]
+z = x[1]
+print(f'{y}+{z} = {(int(y[0]) + int(x[1]}')
+print(f'{y}-{z} = {(int(y[0]) - int(x[1]}')
+print(f'{y}*{z} = {(int(y[0]) * int(x[1]}')
+print(f'{y}/{z} = {(int(y[0]) / int(x[1]}')
+print(f'{y}//{z} = {(int(y[0]) // int(x[1]}')
+print(f'{y}%{z} = {(int(y[0]) % int(x[1]}')
+print(f'{y}**{z} = {(int(y[0]) ** int(x[1]}')

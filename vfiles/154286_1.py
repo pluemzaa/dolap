@@ -1,0 +1,2 @@
+number = ("number: ")
+print(number)

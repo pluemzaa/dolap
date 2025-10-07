@@ -1,0 +1,8 @@
+x,y= input().split (',')
+print(x,"+",y,"=",int(x)+int(y)).split('')
+print(x,"-",y,"=",int(x)-int(y)).split('')
+print(x,"*",y,"=",int(x)*int(y)).split('')
+print(x,"/",y,"=",int(x)/int(y)).split('')
+print(x,"//",y,"=",int(x)//int(y)).split('')
+print(x,"%",y,"=",int(x)%int(y)).split('')
+print(x,"**",y,"=",int(x)**int(y)).split('')

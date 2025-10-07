@@ -1,0 +1,8 @@
+print("p\by\bt\bh\bo\bn")
+print("p\tp")
+print("y\ty")
+print("t\tt")
+print("h\th")
+print("o\to")
+print("n\tn")
+print("p\by\bt\bh\bo\bn")

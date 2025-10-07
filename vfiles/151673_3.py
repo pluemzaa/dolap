@@ -1,0 +1,12 @@
+x1=input("Enter v1 (space-separated):")
+x2=input("Enter v2 (space-separated):")
+x3=x1.split()
+x3_1=x2.split()
+x4=int(x3[0]) 
+x4_1=int(x3[1]) 
+x4_2=int(x3[2]) 
+x4_3=int(x3_1[0]) 
+x4_4=int(x3_1[1]) 
+x4_5=int(x3_1[2]) 
+calculate=x4[0]*x4_3[0]+ x4_1[1]*x4_4[1]+x4_2[2]*x4_5[2] 
+print(f"Dot product:{calculate}")

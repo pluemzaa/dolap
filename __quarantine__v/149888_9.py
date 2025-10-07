@@ -1,0 +1,5 @@
+username = "system"
+password = "Tipsing098@005"
+ip = "10.53.62.100"
+port = "1521"
+database = "xe"

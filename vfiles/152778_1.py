@@ -1,0 +1,6 @@
+case1 = int(input())
+print(case1)
+case2 = int(input())
+print(case2)
+case3 = str(input())
+print(case3)

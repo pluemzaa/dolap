@@ -1,0 +1,8 @@
+x,y= int(input("").split(','))
+print (int(x)-int(y) = int(x)+int(y))
+print (int(x)-int(y) = int(x)-int(y))
+print (int(x)*int(y) = int(x)*int(y))
+print (int(x)/int(y) = int(x)/int(y))
+print (int(x)//int(y) = int(x)//int(y))
+print (int(x)%int(y) = int(x)%int(y))
+print (int(x)**int(y) int(x)**int(y))

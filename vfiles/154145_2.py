@@ -1,0 +1,1 @@
+input(Your data:1)

@@ -1,0 +1,6 @@
+value = input(1)
+print(value)
+value = input(1.2)
+print(value)
+value = input(A)
+print(value)

@@ -1,0 +1,8 @@
+x = input().split(',')
+print(f"int(x[0])+int(x[1])={int(x[0])+int(x[1])")
+print(f"int(x[0])-int(x[1])={int(x[0])-int(x[1])")
+print(f"int(x[0])*int(x[1])={int(x[0])*int(x[1])")
+print(f"int(x[0])/int(x[1])={int(x[0])/int(x[1])")
+print(f"int(x[0])//int(x[1])={int(x[0])//int(x[1])")
+print(f"int(x[0])%int(x[1])={int(x[0])%int(x[1])")
+print(f"int(x[0])**int(x[1])={int(x[0])**int(x[1])")

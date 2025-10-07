@@ -1,0 +1,14 @@
+xy = input("Display multiplication table of? ")
+x = int(xy)
+y1 = x * 1
+y2 = x * 2
+y3 = x * 3
+y4 = x * 4
+y5 = x * 5
+y6 = x * 6
+print(x,'+',1,'=',y1)
+print(x,'+',2,'=',y2)
+print(x,'+',3,'=',y3)
+print(x,'+',4,'=',y4)
+print(x,'+',5,'=',y5)
+print(x,'+',6,'=',y6)

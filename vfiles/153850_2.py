@@ -1,0 +1,8 @@
+print('p\ty\tt\th\to\tn\n')
+print('p\t\t\t\t\tp\n')
+print('y\t\t\t\t\ty\n')
+print('t\t\t\t\t\tt\n')
+print('h\t\t\t\t\th\n')
+print('o\t\t\t\t\to\n')
+print('n\t\t\t\t\tn\n')
+print('p\ty\tt\th\to\tn')

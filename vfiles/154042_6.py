@@ -1,0 +1,4 @@
+x,y,z="x=5","y=5.5","A"
+print(x)
+print(y)
+print(z)

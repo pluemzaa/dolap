@@ -1,0 +1,6 @@
+a=intinput('input:')
+print(a)
+b=floatinput('input:')
+print(b)
+c=input('input:')
+print(c)

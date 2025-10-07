@@ -1,0 +1,18 @@
+a = input('Enter item 1 : ')
+w1 = float(input('Enter weight 1: '))
+b = input('Enter item 2 : ')
+w2 = float(input('Enter weight 2: '))
+c = input('Enter item 3 : ')
+w3 = float(input('Enter weight 3 : '))
+d = input('Enter item 4 : ')
+w4 = float(input('Enter weight 4 : '))
+
+total = w1 + w2 + w3 + w4
+
+print(f"{a}           {w1:.2f}")
+print(f"{b}           {w2:.2f}")
+print(f"{c}           {w3:.2f}")
+print(f"{d}           {w4:.2f}")
+print("---------------------------")
+
+print(f"total           {total:.2f}")

@@ -1,0 +1,6 @@
+input(1)
+print(1)
+input(1.2)
+print(1.2)
+input(A)
+print(A)

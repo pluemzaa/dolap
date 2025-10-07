@@ -1,0 +1,11 @@
+# dog = 0
+# cat = 1
+# fish = 2
+animal_vector = {"Dog":[1,0,0], "Cat":[0,1,0],"Fish":[0,0,1]}
+animal = {"Dog":0, "Cat":1,"Fish": 2}
+pet_str = input("Enter your pets:")
+am = pet_str.split(",")
+print("Code of your pets:",end="")
+print(animal[am[0]],animal[am[1]],animal[am[2]],animal[am[3]],animal[am[4]],sep=",")
+print("One-hot vectors:",end="\n")
+print(animal_vector[am[0]],animal_vector[am[1]],animal_vector[am[2]],animal_vector[am[3]],animal_vector[am[4]],sep="\n")

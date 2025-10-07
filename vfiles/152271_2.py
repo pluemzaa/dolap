@@ -1,0 +1,1 @@
+data = input("enter your data bro:")

@@ -1,0 +1,1 @@
+intput("Enter your data : ")

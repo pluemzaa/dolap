@@ -1,0 +1,8 @@
+print('p y t h h o n')
+print('p           p')
+print('y           y')
+print('t           t')
+print('h           h')
+print('o           o')
+print('n           n')
+print('p y t h h o n')

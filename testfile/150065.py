@@ -1,0 +1,1 @@
+print("\'H E L L O'\nP\tP\nY\tY\nT\tT\nH\tH\nO\tO\nN\tN\n\"H E L L O\"")

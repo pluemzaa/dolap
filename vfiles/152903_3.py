@@ -1,0 +1,6 @@
+test1 = input()
+test2 = input()
+test3 = input()
+print(test1[2:7])
+print(test2[2:7])
+print(test3[2:7])

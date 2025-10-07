@@ -1,0 +1,1 @@
+print('p y t h o n\np \t  p\ny \t  y\nt  \t  t\nh  \t  h\no  \t  o\nn  \t  n\np y t h o n')

@@ -1,0 +1,6 @@
+x,y = (5,4)
+print("First number is:",x)
+print("second number is:",y)
+a,b = (-5,-4)
+print("First number is:",a)
+print("second numbber is",b)

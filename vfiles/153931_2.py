@@ -1,0 +1,22 @@
+# print("Test case 1")
+
+message = input()
+message = message.split(',')
+print("First number is:",message[0])
+print("First number is:",message[2])
+
+# print("Test case 2")
+
+y = input()
+y = message.split(',')
+
+print("First number is:",y[0])
+print("First number is:",y[2])
+
+# print("Test case 3")
+
+z = input()
+z = message.split(',')
+
+print("First number is:",z[0])
+print("First number is:",z[2])

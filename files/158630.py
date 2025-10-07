@@ -1,0 +1,20 @@
+Hin = int(input())
+Min = int(input())
+Hout = int(input())
+Mout = int(input())
+Hin *= 60
+Hout *= 60
+total = (Mout + Hout) - (Hin + Min)
+pay = 0
+if total <=15:
+  print("Pay:",pay,sep='')
+elif total <=180:
+  pay += 10*((total + 59)//60)
+  print("Pay:",pay,sep='')
+elif total <=360:
+  pay += 30
+  pay += 20*(((total + 59)//60)-3)
+  print("Pay:",pay,sep='')
+else:
+  pay += 200
+  print('Pay:',pay,sep='')

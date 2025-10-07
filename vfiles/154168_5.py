@@ -1,0 +1,6 @@
+input_str = input("Enter numbers separated by a comma:")
+num1_str, num2_str = input_str.split()
+num1 = int(num1_str)
+num2 = int(num2_str)
+print("First number is:", num1)
+print("Second number is:", num2)

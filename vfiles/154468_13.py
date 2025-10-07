@@ -1,0 +1,8 @@
+A = input().split()
+print(A[1])
+B = input()
+b = list(B)
+print(B[2:6])
+C = input()
+c = list(C)
+print(C[2:6])

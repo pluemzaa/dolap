@@ -1,0 +1,2 @@
+x = love
+print (x)

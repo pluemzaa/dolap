@@ -1,0 +1,6 @@
+A = input().split()
+print(A[1])
+B = input()
+print(B[2:5])
+C = input()
+print(C[2:5])

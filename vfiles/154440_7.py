@@ -1,0 +1,7 @@
+myNum = input()
+num1_str,num2_str = myNum.split(",")
+num1_int = int(num1_str)
+num2_int = int(num1_str)
+print = ("First number is: ",num1_int)
+print = ("Second number is: ",num2_int)
+print = ("ผลบวก",num2_int + num2_int)

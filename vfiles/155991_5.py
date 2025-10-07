@@ -1,0 +1,17 @@
+key = input().split(',')
+a = int(key[0])
+b = int(key[1])
+x = a+b
+print('1+2=',x)
+x = a-b
+print('1-2=',x))
+x = a*b
+print('1*2=',x))
+x = a/b
+print('1/2=',x))
+x = a//b
+print('1//2=',x))
+x = a%b
+print('1%2=',x))
+x = a**b
+print('1**2=',x))

@@ -1,0 +1,12 @@
+num_dict = {"Dog": 0, "Cat": 1, "Fish": 2}
+num_dict2 = {"Dog": [1,0,0], "Cat": [0,1,0], "Fish": [0,0,1]}
+
+hnum = input("Enter your pets: ") 
+hnum = hnum.split(',')
+print('Code of your pets: ', end=' ')
+print(num_dict[hnum[0]],num_dict[hnum[1]], num_dict[hnum[2]], num_dict[hnum[3]],num_dict[hnum[4]],sep=',')
+
+hnum = "A,B,B,F" #====> input 
+hnum = hnum.split(',')
+print('One-hot vectors: ', end=' ')
+print(num_dict2[hnum[0]],num_dict[hnum[1]], num_dict[hnum[2]], num_dict[hnum[3]],num_dict[hnum[4]],sep='\n')

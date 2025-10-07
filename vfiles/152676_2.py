@@ -1,0 +1,5 @@
+print('\tI love KKU')
+print('\nI love KKU')
+print('\'I love KKU')
+print('\"I love KKU')
+print('\\I love KKU')

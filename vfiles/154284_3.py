@@ -1,0 +1,6 @@
+message=("I love you")
+print([3:6])
+message=("Programming")
+print([3:6])
+message=("Programming")
+print([3:6])

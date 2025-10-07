@@ -1,0 +1,11 @@
+x1 = input('Enter the x-coordinate of point 1:')
+x2 = input('Enter the x-coordinate of point 2:')
+
+y1 = input('Enter the y-coordinate of point 1:')
+y2 = input('Enter the y-coordinate of point 2:')
+
+
+d = (x1-x2) **2  + (y1-y2) **2
+d = d**0.5
+
+print("The distance between the two points is:%.2f" %d)

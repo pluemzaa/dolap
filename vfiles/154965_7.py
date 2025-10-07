@@ -1,0 +1,8 @@
+numbers = input("Enter a series of numbers separated by commas: ")
+nums = numbers.split(",")
+maximum = max(nums)
+print(f"{nums[0]} is the maximum value:", nums[0] is maximum)
+print(f"{nums[1]} is the maximum value:", nums[1] is maximum)
+print(f"{nums[2]} is the maximum value:", nums[2] is maximum)
+print(f"{nums[3]} is the maximum value:", nums[3] is maximum)
+print(f"{nums[4]} is the maximum value:", nums[4] is maximum)

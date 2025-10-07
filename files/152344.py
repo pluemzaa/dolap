@@ -1,0 +1,6 @@
+A=("x = 5")
+B=("y = 5.5")
+C=('z = "A"')
+print(A)
+print(B)
+print(C)

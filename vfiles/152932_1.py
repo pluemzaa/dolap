@@ -1,0 +1,8 @@
+pintr("p\t y\t t\t h\t o\t n")
+print("p \tp")
+print("y \ty")
+print("t \tt")
+print("h \th")
+print("o \to")
+print("n \tn")
+print("p\t y\t t\t h\t o\t n")

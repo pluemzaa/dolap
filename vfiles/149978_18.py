@@ -1,0 +1,2 @@
+#print('H\tE\tL\tL\tO\nP\tP\nY\tY\nT\tT\nH\tH\nO\tO\nN\tN\n"H\tE\tL\tL\tO"')
+print('H\tE\tL\tL\tO\nP\t\t\t\tP\nY\t\t\t\tY\nT\t\t\t\tT\nH\t\t\t\tH\nO\t\t\t\tO\nN\t\t\t\tN\n"H\tE\tL\tL\tO"')

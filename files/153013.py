@@ -1,0 +1,8 @@
+Num = input().split(',')
+print(Num[0],"+",Num[1],"=",int(Num[0])+int(Num[1]))
+print(Num[0],"-",Num[1],"=",int(Num[0])-int(Num[1]))
+print(Num[0],"*",Num[1],"=",int(Num[0])*int(Num[1]))
+print(Num[0],"/",Num[1],"=",int(Num[0])/int(Num[1]))
+print(Num[0],"//",Num[1],"=",int(Num[0])//int(Num[1]))
+print(Num[0],"%",Num[1],"=",int(Num[0])%int(Num[1]))
+print(Num[0],"**",Num[1],"=",int(Num[0])**int(Num[1]))

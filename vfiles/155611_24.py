@@ -1,0 +1,6 @@
+message=input("I love you")
+print(message[3:5])
+message=input("Programming")
+print(message[3:5])
+message=input("Security")
+print(message[3:5])

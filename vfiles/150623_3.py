@@ -1,0 +1,6 @@
+print('num,'x',1,'=',num*12)
+print('num,'x',2,'=',num*12)
+print('num,'x',3,'=',num*12)
+print('num,'x',4,'=',num*12)
+print('num,'x',5,'=',num*12)
+print('num,'x',6,'=',num*12)

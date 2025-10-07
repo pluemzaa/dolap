@@ -1,0 +1,1 @@
+print('I love ant \n I love bird \n I love cat')

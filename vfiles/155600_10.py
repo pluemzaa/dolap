@@ -1,0 +1,8 @@
+x,y=input("").split(',')
+print (x+y)
+print (x-y)
+print (x*y)
+print (x/y)
+print (x//y)
+print (x%y))
+print (x**y)

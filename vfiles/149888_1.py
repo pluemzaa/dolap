@@ -1,0 +1,5 @@
+print('username = \"system\"')
+print('password = \"Tipsing098@005"')
+print('ip = \"10.53.62.100\"')
+print('port = \"1521\"')
+print('ip = \"xe\"')

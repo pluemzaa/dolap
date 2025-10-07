@@ -1,0 +1,21 @@
+x = input("Enter a series of numbers separated by commas:")
+
+nums = nums_text.split(",")
+nums[0] = int(nums[0])
+nums[1] = int(nums[1])
+nums[2] = int(nums[2])
+nums[3] = int(nums[3])
+nums[4] = int(nums[4])
+
+slope0 = (x1[0]-min(x1))/(max(x1)-min(x1))
+slope1 = (x1[1]-min(x1))/(max(x1)-min(x1))
+slope2 = (x1[2]-min(x1))/(max(x1)-min(x1))
+slope3 = (x1[3]-min(x1))/(max(x1)-min(x1))
+slope4 = (x1[4]-min(x1))/(max(x1)-min(x1))
+
+print("Normalized values:")
+print(f"{slope0: .2f}" )
+print(f"{slope1: .2f}" )
+print(f"{slope2: .2f}" )
+print(f"{slope3: .2f}" )
+print(f"{slope4: .2f}" )

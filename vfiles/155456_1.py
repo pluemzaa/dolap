@@ -1,0 +1,21 @@
+nums_text =input("Enter a series of numbers separated by commas: ")
+nums = nums_text.split(",")
+nums[0] = int(nums[0])
+nums[1] = int(nums[1])
+nums[2] = int(nums[2])
+nums[3] = int(nums[3])
+nums[4] = int(nums[4])
+
+minnum = min(nums)
+maxnum = max(nums)
+aa = maxnum-minnum
+r0 = (nums[0] - minnum) /aa
+r1 = (nums[1] - minnum)/aa
+r2 = (nums[2] - minnum)/aa
+r3 = (nums[3] - minnum)/aa
+r4 = (nums[4] - minnum)/aa
+ print("%.2f " % r0)
+print("%.2f " % r1)
+print("%.2f " % r2)
+print("%.2f " % r3)
+print("%.2f " % r4)

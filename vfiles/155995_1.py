@@ -1,0 +1,1 @@
+key = int(input("Enter key"))

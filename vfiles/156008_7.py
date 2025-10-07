@@ -1,0 +1,8 @@
+x=input.split(" , ")
+print('Addition: ')
+print('Subtraction: ')
+print('Multiplication: ')
+print('Division: ')
+print('Division without the remainder: ')
+print('Modulus: ')
+print('Exponential: ')

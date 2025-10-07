@@ -1,0 +1,1 @@
+steps = int(input("Enter the number of steps taken:"))

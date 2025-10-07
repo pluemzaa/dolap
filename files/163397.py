@@ -1,0 +1,5 @@
+m = int(input())
+k = int(input())
+n = int(input())
+t = ((m*k+n-1)//n)
+print(round(t))

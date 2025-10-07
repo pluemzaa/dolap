@@ -1,0 +1,20 @@
+v1_str = input("Enter v1:")
+v1 = v1_str.split(' ')
+v1[0]
+print(v1)
+v1[0]=int(v1[0])
+v2_str = input("Enter v2:")
+v2 = v2_str.split(' ')
+v2[0]
+print(v2)
+v2[0]=int(v2[0])
+v1=[v1[0],v1[1],v1[2]]
+v2=[v2[0],v2[1],v2[2]]
+
+c0= v1[0] * v2[0]
+c1= v1[1] * v2[1]
+c2= v1[2] * v2[2]
+
+c=[c0,c1,c2]
+s=c0+c1+c2
+print("Dot product:",s)

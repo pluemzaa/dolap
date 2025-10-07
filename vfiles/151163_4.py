@@ -1,0 +1,10 @@
+a = input("Enter your pets:")
+pet = {"Dog":0,"Cat":1,"Fish":2}
+pets = a.split(",")
+c0 = pet[pets[0]]
+c1 = pet[pets[1]]
+c2 = pet[pets[2]]
+c3 = pet[pets[3]]
+c4 = pet[pets[4]]
+C = str(c0), str(c1), str(c2), str(c3), str(c4)
+print("Code of your pets:", c0, c1, c2, c3, c4, sep=",")

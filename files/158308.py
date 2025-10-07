@@ -1,0 +1,1 @@
+print("Password is strong" if len(input())>=8 else "Password is weak")

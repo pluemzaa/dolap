@@ -1,0 +1,6 @@
+number = input()
+num1_str,num2_str = number.split(",")
+num1_int = int(num1_str)
+num2_int = int(num1_str)
+print = ("First number is: ",num1_int)
+print = ("Second number is: ",num2_int)

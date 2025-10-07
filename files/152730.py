@@ -1,0 +1,8 @@
+print('p    y    t    h    o    n')
+print('p \tp')
+print('y \ty')
+print('t \tt')
+print('h \th')
+print('o \to')
+print('n \tn')
+print('p    y    t    h    o    n')

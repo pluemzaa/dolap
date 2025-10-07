@@ -1,0 +1,6 @@
+price =float(input("Enter product price: "))
+point =int(input("Enter your point:"))
+ds = point/500
+print(f"Discount: {ds:.2f}")
+total=price-ds
+print(f"total:{total:.2f}ฺ Baht")

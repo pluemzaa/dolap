@@ -1,0 +1,13 @@
+x = input("Enter a series of numbers separated by commas:").split(',')
+x_list =[(int[0]),(int[1]),(int[2]),(int[3]),(int[4])]
+x_min = min(x_list)
+x_max = max(x_list)
+x0 = (x-x_min[0])/(x_max-x_min)
+x1 = (x-x_min[1])/(x_max-x_min)
+x2 = (x-x_min[2])/(x_max-x_min)
+x3 = (x-x_min[3])/(x_max-x_min)
+x4 = (x-x_min[4])/(x_max-x_min)
+print("%.2f" %x0)
+print("%.2f" %x1)
+print("%.2f" %x2)
+print("%.2f" %x3)

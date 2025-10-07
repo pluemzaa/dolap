@@ -1,0 +1,8 @@
+n = input("enter num : ")
+x = int(n)
+print(x, 'x', 1 ,'=', x * 1)
+print(x, 'x', 2 ,'=', x * 1)
+print(x, 'x', 3 ,'=', x * 1)
+print(x, 'x', 4 ,'=', x * 1)
+print(x, 'x', 5 ,'=', x * 1)
+print(x, 'x', 6 ,'=', x * 1)

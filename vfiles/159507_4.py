@@ -1,0 +1,23 @@
+# รับค่ารายได้สุทธิจากผู้ใช้
+net_income = float(input("กรุณากรอกเงินได้สุทธิต่อปี (บาท): "))
+
+# คำนวณภาษีตามขั้นบันได
+if net_income <= 150000:
+    tax = 0
+elif net_income <= 300000:
+    tax = (net_income - 150000) * 0.05
+elif net_income <= 500000:
+    tax = (net_income - 300000) * 0.10 + 7500
+elif net_income <= 750000:
+    tax = (net_income - 500000) * 0.15 + 27500
+elif net_income <= 1000000:
+    tax = (net_income - 750000) * 0.20 + 65000
+elif net_income <= 2000000:
+    tax = (net_income - 1000000) * 0.25 + 115000
+elif net_income <= 5000000:
+    tax = (net_income - 2000000) * 0.30 + 365000
+else:
+    tax = (net_income - 5000000) * 0.35 + 1265000
+
+# แสดงผลลัพธ์
+print(f"ภาษีที่ต้องจ่าย: {tax:,.2f} บาท")

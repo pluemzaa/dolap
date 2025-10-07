@@ -1,0 +1,14 @@
+x = input("Enter a series of numbers separated by commas:")
+num = x.split(",")
+num[0] = int(num[0])
+num[1] = int(num[1])
+num[2] = int(num[2])
+num[3] = int(num[3])
+num[4] = int(num[4])
+
+
+print(f'{num[0]} is the maximum value: {num[0] is max(num)}')
+print(f'{num[1]} is the maximum value: {num[1] is max(num)}')
+print(f'{num[2]} is the maximum value: {num[2] is max(num)}')
+print(f'{num[3]} is the maximum value: {num[3] is max(num)}')
+print(f'{num[4]} is the maximum value: {num[4] is max(num)}')

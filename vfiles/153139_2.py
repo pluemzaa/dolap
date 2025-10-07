@@ -1,0 +1,2 @@
+print('')
+print (input('1,2'))

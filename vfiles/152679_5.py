@@ -1,0 +1,1 @@
+x = int(input("Enter your dota:"))

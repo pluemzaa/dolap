@@ -1,0 +1,6 @@
+number = input("Enter a number:")
+number = int(number)
+if number >= 0 :
+  print("{} is greater than or equal 0".format(number))
+  else :
+  print("{} is less that 0".format(number))

@@ -1,0 +1,16 @@
+fruit1 = input("Enter item 1 :")
+weight1 = float(input("Enter weight 1 :"))
+fruit2 = input("Enter item 2 :")
+weight2 = float(input("Enter weight 2 :"))
+fruit3 = input("Enter item 3 :")
+weight3 = float(input("Enter weight 3 :"))
+fruit4 = input("Enter item 4 :")
+weight4 = float(input("Enter weight 4 :"))
+s = weight1+weight2+weight3+weight4
+
+print(fruit1,f"           {weight1:.2f}")
+print(fruit2,f"           {weight2:.2f}")
+print(fruit3,f"           {weight3:.2f}")
+print(fruit4,f"           {weight4:.2f}")
+print("---------------------------")
+print(f"total           {s:.2f}")

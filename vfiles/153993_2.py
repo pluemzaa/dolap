@@ -1,0 +1,1 @@
+print ('c*4\n\n c,,c\n\n c,,c\n\n c*4')
