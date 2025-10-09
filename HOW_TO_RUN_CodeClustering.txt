@@ -1,0 +1,105 @@
+
+HOW TO RUN — Code Clustering Pipeline (CodeT5 + K-Means)
+
+0) Project layout
+-----------------
+D:\GitHub\dolap\
+ ├─ code_clustering_pipeline.py   ← main script (latest version)
+ └─ run_cluster.py                ← wrapper you run
+
+Your .py files to cluster live in:
+D:\GitHub\dolap\files_dolab\files\    (you can change this in run_cluster.py)
+
+
+1) Environment setup (one-time)
+-------------------------------
+Open Anaconda Prompt and run:
+
+conda activate env_core
+
+:: Remove torchvision (we don't need it)
+pip uninstall -y torchvision
+
+:: Make transformers ignore torchvision import paths
+setx TRANSFORMERS_NO_TORCHVISION 1
+
+:: Fix protobuf for TensorFlow noisy logs
+pip install -U protobuf==4.25.3
+
+:: Core packages
+pip install -U transformers sentencepiece safetensors accelerate
+
+:: PyTorch (CPU build). If you have NVIDIA GPU, install the cu121 build instead.
+pip install -U torch --index-url https://download.pytorch.org/whl/cpu
+:: GPU example:
+:: pip install -U torch --index-url https://download.pytorch.org/whl/cu121
+
+Close this Anaconda Prompt window and reopen a new one to apply the setx change.
+
+
+2) Configure run_cluster.py
+---------------------------
+Open run_cluster.py and set two paths:
+SRC_DIR = r"D:\GitHub\dolap\files_dolab\files"
+OUT_DIR = r"D:\GitHub\dolap\files_dolab\out_file"
+
+Recommended "production" settings (fast & stable):
+use_auto_k=False, k=12,      # lock the k you discovered with auto-k
+min_lines=5,                 # filter tiny/noisy scripts
+svd_components=256,          # if TF-IDF fallback happens, reduce dims before KMeans
+device="cpu"                 # or "cuda" if you have a GPU
+
+
+3) Run
+------
+Anaconda Prompt:
+
+conda activate env_core
+cd D:\GitHub\dolap
+
+:: Run via wrapper
+python run_cluster.py
+
+:: Or run the main script directly (same effect):
+python code_clustering_pipeline.py --src "D:\GitHub\dolap\files_dolab\files" --k 12 --out-dir "D:\GitHub\dolap\files_dolab\out_file" --device cpu
+
+:: To explore k:
+python code_clustering_pipeline.py --src "D:\GitHub\dolap\files_dolab\files" --auto-k --k-min 8 --k-max 20 --out-dir "D:\GitHub\dolap\files_dolab\out_file" --device cpu
+
+
+4) Outputs
+----------
+OUT_DIR = D:\GitHub\dolap\files_dolab\out_file\
+
+- clusters.csv               file → cluster, centroid_distance, cluster_size, embedding, silhouette_overall
+- clusters_pca.png           2D PCA scatter colored by cluster
+- exemplars\cluster_XX.txt   top-N files closest to centroid per cluster
+- clusters_summary.txt       JSON with k, silhouette, counts, config
+- embeddings.npy (optional)  if save_embeddings was set
+
+
+5) Quick reading guide
+----------------------
+1) Open clusters.csv → sort by 'cluster'; within each cluster, sort by 'centroid_distance' ascending.
+2) Read exemplars/cluster_XX.txt → skim the top 3–5 files to understand the theme of that cluster.
+3) Use cluster labels to create reusable feedback templates or to detect common solution patterns.
+
+
+6) Troubleshooting
+------------------
+- TensorFlow oneDNN log: it's informational. To silence, run once and reopen Prompt:
+  setx TF_ENABLE_ONEDNN_OPTS 0
+
+- If CodeT5 cannot run and the script falls back to TF-IDF:
+  keep svd_components=256 (or 384) to reduce memory and speed up KMeans.
+
+- Large datasets (many thousands of files):
+  set batch_size=2 (CPU), increase min_lines (e.g., 5–8), lock k instead of auto-k.
+
+- Have a GPU?
+  set device="cuda" for much faster embedding; keep batch_size=8–16 depending on VRAM.
+
+
+7) Repro command (copy-paste)
+-----------------------------
+python code_clustering_pipeline.py --src "D:\GitHub\dolap\files_dolab\files" --k 12 --out-dir "D:\GitHub\dolap\files_dolab\out_file" --device cpu
