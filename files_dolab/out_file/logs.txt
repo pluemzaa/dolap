@@ -1,0 +1,10 @@
+[Start] Code Clustering Pipeline
+[Files] found 9000 candidate(s)
+[Preprocess] kept 5994 file(s)
+[Embedding] CodeT5 encoder: Salesforce/codet5-base on cpu
+[Embedding] shape=(5994, 768)
+[K] fixed k=12
+[Save] PCA plot -> D:\GitHub\dolap\files_dolab\out_file\clusters_pca.png
+[Save] clusters -> D:\GitHub\dolap\files_dolab\out_file\clusters.csv
+[Save] summary -> D:\GitHub\dolap\files_dolab\out_file\clusters_summary.txt
+[Done]

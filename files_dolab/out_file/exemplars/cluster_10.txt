@@ -1,0 +1,6 @@
+# Cluster 10 | top 5 closest to centroid
+ 13.784345  D:\GitHub\dolap\files_dolab\files\150433.py
+ 13.784346  D:\GitHub\dolap\files_dolab\files\151332.py
+ 13.784346  D:\GitHub\dolap\files_dolab\files\151586.py
+ 13.784346  D:\GitHub\dolap\files_dolab\files\154499.py
+ 13.784346  D:\GitHub\dolap\files_dolab\files\157412.py
