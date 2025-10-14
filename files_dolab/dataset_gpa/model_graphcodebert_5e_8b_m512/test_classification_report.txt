@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+  inputError       0.75      0.75      0.75        32
+processError       0.76      0.97      0.86        67
+ outputError       0.62      0.96      0.76        53
+
+   micro avg       0.70      0.92      0.80       152
+   macro avg       0.71      0.89      0.79       152
+weighted avg       0.71      0.92      0.80       152
+ samples avg       0.68      0.70      0.68       152
