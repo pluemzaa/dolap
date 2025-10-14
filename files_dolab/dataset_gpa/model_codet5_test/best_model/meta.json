@@ -1,0 +1,9 @@
+{
+  "model_name": "Salesforce/codet5-base",
+  "d_model": 768,
+  "labels": [
+    "inputError",
+    "processError",
+    "outputError"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "n_files": 5994,
+  "embedding": "CodeT5Enc:Salesforce/codet5-base",
+  "k": 12,
+  "silhouette_overall": 0.23181520402431488,
+  "clusters": {
+    "0": 665,
+    "1": 670,
+    "2": 608,
+    "3": 804,
+    "4": 63,
+    "5": 493,
+    "6": 174,
+    "7": 273,
+    "8": 329,
+    "9": 908,
+    "10": 424,
+    "11": 583
+  },
+  "config": {
+    "strip_docs_comments": true,
+    "ast_rename_identifiers": true,
+    "squeeze_whitespace": true,
+    "pattern": "*.py",
+    "min_lines": 5,
+    "svd_components": 256
+  }
+}
